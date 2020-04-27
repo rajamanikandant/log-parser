@@ -16,18 +16,28 @@ import java.util.stream.Stream;
 import static java.util.stream.Collectors.toList;
 
 public class LogUtil {
-    private static final String filepath = "sample4667.log";
-//    private static final String filepath = "full.log";
+    private static final String filepath = "full.log";
 
 
     public static void parseLog(String procID, List<String> keywords) {
 
+        //Handling Invalid input
+        if(procID == null || procID.trim().isEmpty())
+            throw new IllegalArgumentException();
+
         //Get list by procID
         List<String> logsByProcID;
+
+        System.out.println("Parsing the log file for " + procID);
         logsByProcID = filterBy(procID);
 
         printFatalExceptions(logsByProcID);
         printErrors(logsByProcID);
+
+        //Handling Invalid input
+        if(keywords == null || keywords.isEmpty())
+            throw new IllegalArgumentException();
+        
         printByKeywords(logsByProcID, keywords);
     }
 
@@ -60,9 +70,9 @@ public class LogUtil {
 
 
     private static void printFatalExceptions(List<String> log) {
-        final String keyword = "FATAL EXCEPTION";
+        final String FATAL_EXCEPTION = "FATAL EXCEPTION";
         List<String> filteredLines = log.stream()
-                .filter(line -> line.toUpperCase().contains(keyword))
+                .filter(line -> line.toUpperCase().contains(FATAL_EXCEPTION))
                 .collect(toList());
 
         Map<String, Integer> uniqueLogs = new HashMap<>();
@@ -120,7 +130,7 @@ public class LogUtil {
 
     private static void printErrors(List<String> log) {
         final String logRegex = "[\\d-]+\\s+[\\d:\\.]+\\s+[\\d]+\\s+[\\d]+\\s+E\\s+[\\w]+\\s*:(?!\\s+at ).+";
-        final Pattern logPattern = Pattern.compile(logRegex);
+        Pattern logPattern = Pattern.compile(logRegex);
 
         List<String> filteredLines = log.stream()
                 .filter(logPattern.asPredicate())
@@ -161,7 +171,7 @@ public class LogUtil {
     }
     private static void printByKeyword(List<String> log, String keyword) {
         final String logRegex = String.format("[\\d-]+\\s+[\\d:\\.]+\\s+[\\d]+\\s+[\\d]+\\s+[A-Z]+\\s+[\\w]+\\s*:\\s+.*%s.*", keyword);
-        final Pattern logPattern = Pattern.compile(logRegex);
+        Pattern logPattern = Pattern.compile(logRegex);
         List<String> filteredLines = null;
         filteredLines = log.stream()
             .filter(logPattern.asPredicate())
@@ -177,7 +187,7 @@ public class LogUtil {
     private static String trimLogLine(String logEntry) {
 
         final String logRegex = "[\\d-]+\\s+[\\d:\\.]+\\s+[\\d]+\\s+[\\d]+\\s+[A-Z]\\s+[\\w]+\\s*:\\s+(.+)";
-        final Pattern logPattern = Pattern.compile(logRegex);
+        Pattern logPattern = Pattern.compile(logRegex);
         Matcher matcher = logPattern.matcher(logEntry);
 
         return matcher.matches() ? matcher.group(1) : "";
