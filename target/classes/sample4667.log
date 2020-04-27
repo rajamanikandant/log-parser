@@ -1,0 +1,1622 @@
+<3>[27165.019124] [18:55:34.014667] [000005F70454C4D7] [VosMC]  wlan: [E :SME] Issue scan request 
+<13>[27264.946677] init: Service 'ss_ramdump' (pid 8671) killing any children in process group
+06-17 18:41:07.265  1566  1580 I UsageStatsHourlyHelper: User[0] Rollover hours scheduled @ 2018-06-17 19:41:07(1529244667264)
+08-27 12:33:24.668  1566  1580 I UsageStatsHourlyHelper: User[0] Rollover hours scheduled @ 2019-08-27 13:33:24(1566893004667)
+08-27 18:27:38.213  1566  1679 W BaseMiuiPhoneWindowManager: keyCode:23 down:true eventTime:26354667 downTime:26354667 policyFlags:22000000 flags:8 deviceId:8 isScreenOn:true keyguardActive:false repeatCount:0
+08-27 18:27:38.817  1566  1679 W BaseMiuiPhoneWindowManager: keyCode:23 down:false eventTime:26355271 downTime:26354667 policyFlags:22000000 flags:8 deviceId:8 isScreenOn:true keyguardActive:false repeatCount:0
+08-27 18:30:40.370  1566  3846 I ActivityManager: Start proc 4667:com.miui.android.fashiongallery/u0a178 for content provider com.miui.android.fashiongallery/.LockScreenMagazineProvider caller=com.miui.home
+08-27 18:30:40.374  4667  4667 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 258 lines
+08-27 18:30:40.603  4667  4682 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 42 lines
+08-27 18:30:40.643  4667  4701 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 61 lines
+08-27 18:30:41.080  4667  4700 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 1 line
+08-27 18:30:41.140  4667  4716 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 3 lines
+08-27 18:30:42.144  4667  4701 E ActivityThread: Failed to find provider info for com.miui.systemui.keyguard.wallpaper
+08-27 18:30:42.769  4667  4672 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 11 lines
+08-27 18:30:42.911  4667  4728 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 21 lines
+08-27 18:30:42.912  4667  4729 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 96 lines
+08-27 18:30:42.917  4667  4687 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 51 lines
+08-27 18:30:42.942  4667  4733 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 1 line
+08-27 18:30:42.975  4667  4732 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 2 lines
+08-27 18:30:43.034  4667  4747 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 38 lines
+08-27 18:30:43.057  4667  4742 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 4 lines
+08-27 18:30:43.068  4667  4743 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 1 line
+08-27 18:30:43.166  4667  4752 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 2 lines
+08-27 18:30:43.899  4667  4780 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 2 lines
+08-27 18:30:44.408  4667  4736 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 1 line
+08-27 18:30:47.915  4667  4727 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 14 lines
+08-27 18:30:48.067  4667  4734 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 19 lines
+08-27 18:30:54.481  4667  4667 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 19 lines
+08-27 18:30:54.599  4667  4746 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 3 lines
+08-27 18:30:54.880  4667  4701 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 32 lines
+08-27 18:30:56.169  4667  4875 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 1 line
+08-27 18:30:56.205  4667  4672 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 9 lines
+08-27 18:31:04.136  4667  4680 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 4 lines
+08-27 18:31:05.617  4667  4747 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 13 lines
+08-27 18:31:05.620  4667  4729 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 12 lines
+08-27 18:31:21.629  4667  4667 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 54 lines
+08-27 18:31:24.049  4667  4728 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 7 lines
+08-27 18:31:24.050  4667  4697 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 10 lines
+08-27 18:31:24.067  4667  4747 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 11 lines
+08-27 18:31:25.641  4667  4965 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 34 lines
+08-27 18:31:25.655  4667  4966 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 12 lines
+08-27 18:31:25.674  4667  4973 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 2 lines
+08-27 18:31:25.869  4667  4997 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 1 line
+08-27 18:31:50.764  2841 21273 W MiuiPerfServiceClient: interceptAndQueuing:4667|com.miui.android.fashiongallery|168|95|unknown|null|com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity|26587000972304|Slow main thread|3
+08-27 18:31:50.768  2841 21273 W MiuiPerfServiceClient: interceptAndQueuing:4667|com.miui.android.fashiongallery|158|158|unknown|null|com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity|26587559997564|Slow handle animation|1
+08-27 18:31:50.770  2841 21273 W MiuiPerfServiceClient: interceptAndQueuing:4667|com.miui.android.fashiongallery|286|286|unknown|null|com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity|26587954344283|Slow main thread|1
+08-27 18:31:50.856  4667  5095 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 1 line
+08-27 18:31:57.062  2841  3845 W MiuiPerfServiceClient: interceptAndQueuing:4667|com.miui.android.fashiongallery|279|279|unknown|null|com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity|26609484463910|Slow issue draw commands|1
+08-27 18:32:00.214  4667  4667 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 22 lines
+08-27 18:32:00.300  4667  4729 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 24 lines
+08-27 18:32:00.739  4667  4761 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 1 line
+08-27 18:32:00.787  4667  5203 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 19 lines
+08-27 18:32:01.282  4667  4747 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 29 lines
+08-27 18:32:49.969  4667  5327 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 1 line
+08-27 18:33:02.747  4667  4747 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 10 lines
+08-27 18:34:51.275  4667  5740 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 1 line
+08-27 18:35:14.862  4667  5792 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 10 lines
+08-27 18:35:14.863  4667  4729 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 10 lines
+08-27 18:37:35.381  4667  5841 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 1 line
+08-27 18:43:37.309  1566  3846 W ActivityManager: Background start not allowed: service Intent { act=com.google.firebase.INSTANCE_ID_EVENT pkg=com.miui.android.fashiongallery cmp=com.miui.android.fashiongallery/com.google.firebase.iid.FirebaseInstanceIdService (has extras) } to com.miui.android.fashiongallery/com.google.firebase.iid.FirebaseInstanceIdService from pid=4667 uid=10178 pkg=com.miui.android.fashiongallery
+08-27 18:43:37.310  4667  4667 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 95 lines
+08-27 18:50:20.978  4667  5085 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 21 lines
+08-27 18:50:42.169  4667  4667 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 32 lines
+08-27 18:51:01.811  4667  4667 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 73 lines
+08-27 18:51:07.740  4667  4747 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 10 lines
+08-27 18:51:09.523  4667  4684 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 10 lines
+08-27 18:51:20.925  4667  6280 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 1 line
+08-27 18:51:24.319  4667  4729 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 17 lines
+08-27 18:51:24.726  4667  4667 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 84 lines
+08-27 18:51:24.852  4667  5260 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 21 lines
+08-27 18:51:33.673  4667  4747 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 46 lines
+08-27 18:51:34.163  4667  5139 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 14 lines
+08-27 18:51:34.200  4667  6376 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 27 lines
+08-27 18:51:39.836  4667  4667 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 11 lines
+08-27 18:51:40.009  4667  4729 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 32 lines
+08-27 18:51:40.015  4667  4966 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 20 lines
+08-27 18:51:40.474  4667  5792 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 10 lines
+08-27 18:51:56.495  4667  4747 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 53 lines
+08-27 18:51:56.501  4667  4729 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 46 lines
+08-27 18:52:02.254  4667  4965 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 20 lines
+08-27 18:52:02.255  4667  6376 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 16 lines
+08-27 18:52:02.583  4667  4667 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 15 lines
+08-27 18:52:09.571  4667  4966 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 59 lines
+08-27 18:52:09.590  4667  5792 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 6 lines
+08-27 18:52:09.803  4667  5139 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 39 lines
+08-27 18:52:10.040  4667  4729 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 30 lines
+08-27 18:52:10.041  4667  4747 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 36 lines
+08-27 18:52:13.515  4667  6376 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 12 lines
+08-27 18:52:13.687  4667  4965 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 9 lines
+08-27 18:52:17.622  4667  4667 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 11 lines
+08-27 18:52:19.955  2841  3845 W MiuiPerfServiceClient: interceptAndQueuing:4667|com.miui.android.fashiongallery|205|205|unknown|null|com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity|26974378874031|Slow main thread|1
+08-27 18:52:25.770  4667  4747 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 13 lines
+08-27 18:52:25.776  4667  4729 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 8 lines
+08-27 18:52:31.911  4667  4667 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 56 lines
+08-27 18:52:31.965  4667  5139 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 23 lines
+08-27 18:52:40.318  4667  4966 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 11 lines
+08-27 18:52:40.328  4667  4678 I chatty  : uid=10178(com.miui.android.fashiongallery) expire 12 lines
+08-27 18:52:40.724  4667  4667 W art     :   at android.view.Choreographer.doCallbacks(Choreographer.java:688)
+08-27 18:52:40.724  4667  4667 W art     :   at android.view.Choreographer.doFrame(Choreographer.java:620)
+08-27 18:52:40.724  4667  4667 W art     :   at android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:862)
+08-27 18:52:40.724  4667  4667 W art     :   at android.os.Handler.handleCallback(Handler.java:754)
+08-27 18:52:40.724  4667  4667 W art     :   at android.os.Handler.dispatchMessage(Handler.java:95)
+08-27 18:52:40.724  4667  4667 W art     :   at android.os.Looper.loop(Looper.java:163)
+08-27 18:52:40.724  4667  4667 W art     :   at android.app.ActivityThread.main(ActivityThread.java:6238)
+08-27 18:52:40.724  4667  4667 W art     :   at java.lang.reflect.Method.invoke!(Native method)
+08-27 18:52:40.724  4667  4667 W art     :   at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:904)
+08-27 18:52:40.724  4667  4667 W art     :   at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:794)
+08-27 18:52:40.724  4667  4667 W art     : 
+08-27 18:52:40.725  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.730  4667  4678 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 717us total 6.448ms
+08-27 18:52:40.730  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:40.730  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.730  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.730  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.768  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:40.769  4667  4678 I art     : Alloc partial concurrent mark sweep GC freed 4(184B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 912us total 38.232ms
+08-27 18:52:40.769  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:40.769  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.769  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.769  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.820  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:40.820  4667  4678 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 788us total 50.513ms
+08-27 18:52:40.820  4667  4678 I art     : Forcing collection of SoftReferences for 24B allocation
+08-27 18:52:40.820  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:40.820  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.820  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.820  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.871  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:40.871  4667  4678 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 833us total 51.182ms
+08-27 18:52:40.872  4667  4678 W art     : Throwing OutOfMemoryError "Failed to allocate a 24 byte allocation with 0 free bytes and -2MB until OOM"
+08-27 18:52:40.872  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:40.872  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:40.872  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.872  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.872  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.878  4667  4678 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 678us total 6.284ms
+08-27 18:52:40.878  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:40.878  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.879  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.879  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.917  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:40.917  4667  4678 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 818us total 38.306ms
+08-27 18:52:40.917  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:40.917  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.917  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.917  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.969  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:40.969  4667  4678 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 963us total 51.134ms
+08-27 18:52:40.969  4667  4678 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:40.969  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:40.969  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.969  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:40.969  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.020  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:41.020  4667  4678 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 796us total 50.833ms
+08-27 18:52:41.020  4667  4678 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM" (recursive case)
+08-27 18:52:41.020  4667  4667 I art     : WaitForGcToComplete blocked for 295.789ms for cause Alloc
+08-27 18:52:41.020  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.020  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.021  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.021  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.021  4667  4678 W art     : "FinalizerDaemon" daemon prio=5 tid=6 Runnable
+08-27 18:52:41.021  4667  4678 W art     :   | group="system" sCount=0 dsCount=0 obj=0x32c0c310 self=0x7fa76c5200
+08-27 18:52:41.021  4667  4678 W art     :   | sysTid=4678 nice=0 cgrp=default sched=0/0 handle=0x7fa6907450
+08-27 18:52:41.021  4667  4678 W art     :   | state=R schedstat=( 407601387 23863133 451 ) utm=38 stm=2 core=7 HZ=100
+08-27 18:52:41.021  4667  4678 W art     :   | stack=0x7fa6805000-0x7fa6807000 stackSize=1037KB
+08-27 18:52:41.021  4667  4678 W art     :   | held mutexes= "mutator lock"(shared held)
+08-27 18:52:41.021  4667  4678 W art     :   at com.android.internal.os.BinderInternal$GcWatcher.finalize(BinderInternal.java:53)
+08-27 18:52:41.021  4667  4678 W art     :   at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:224)
+08-27 18:52:41.021  4667  4678 W art     :   at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:211)
+08-27 18:52:41.021  4667  4678 W art     :   at java.lang.Thread.run(Thread.java:760)
+08-27 18:52:41.021  4667  4678 W art     : 
+08-27 18:52:41.021  4667  4678 E System  : Uncaught exception thrown by finalizer
+08-27 18:52:41.031  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.033  4667  4667 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 1.006ms total 12.240ms
+08-27 18:52:41.033  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.033  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.033  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.033  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.071  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:41.071  4667  4667 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 733us total 37.923ms
+08-27 18:52:41.071  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.071  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.072  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.072  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.123  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:41.123  4667  4667 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 797us total 51.177ms
+08-27 18:52:41.123  4667  4667 I art     : Forcing collection of SoftReferences for 32B allocation
+08-27 18:52:41.123  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.123  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.123  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.124  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.175  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:41.175  4667  4667 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 929us total 51.176ms
+08-27 18:52:41.175  4667  4667 W art     : Throwing OutOfMemoryError "Failed to allocate a 32 byte allocation with 0 free bytes and -2MB until OOM"
+08-27 18:52:41.175  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.175  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.175  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.175  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.175  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.181  4667  4667 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 692us total 6.341ms
+08-27 18:52:41.182  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.182  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.182  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.182  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.219  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:41.220  4667  4667 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 739us total 37.561ms
+08-27 18:52:41.220  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.220  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.220  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.220  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.271  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:41.271  4667  4667 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 792us total 50.559ms
+08-27 18:52:41.271  4667  4667 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:41.271  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.271  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.271  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.271  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.322  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:41.322  4667  4667 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 922us total 50.379ms
+08-27 18:52:41.322  4667  4667 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM" (recursive case)
+08-27 18:52:41.322  4667  4966 I art     : WaitForGcToComplete blocked for 1.004s for cause Alloc
+08-27 18:52:41.322  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.322  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.322  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.322  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.510  4667  4667 W art     : "main" prio=5 tid=1 Runnable
+08-27 18:52:41.510  4667  4667 W art     :   | group="main" sCount=0 dsCount=0 obj=0x758629d0 self=0x7fa7643a00
+08-27 18:52:41.510  4667  4667 W art     :   | sysTid=4667 nice=-20 cgrp=default sched=1073741825/1 handle=0x7fab6b2aa0
+08-27 18:52:41.510  4667  4667 W art     :   | state=R schedstat=( 43402906979 7208974419 32397 ) utm=3577 stm=764 core=0 HZ=100
+08-27 18:52:41.510  4667  4667 W art     :   | stack=0x7fc527a000-0x7fc527c000 stackSize=8MB
+08-27 18:52:41.510  4667  4667 W art     :   | held mutexes= "mutator lock"(shared held)
+08-27 18:52:41.510  4667  4667 W art     :   native: #00 pc 000000000022d0c4  /system/lib64/libart.so (???)
+08-27 18:52:41.510  4667  4667 W art     :   native: #01 pc 000000000022d0c0  /system/lib64/libart.so (???)
+08-27 18:52:41.510  4667  4667 W art     :   native: #02 pc 0000000000200e14  /system/lib64/libart.so (???)
+08-27 18:52:41.510  4667  4667 W art     :   native: #03 pc 00000000001fe884  /system/lib64/libart.so (???)
+08-27 18:52:41.510  4667  4667 W art     :   native: #04 pc 00000000000a88a0  /system/lib64/libart.so (???)
+08-27 18:52:41.510  4667  4667 W art     :   native: #05 pc 00000000000b2920  /system/lib64/libart.so (???)
+08-27 18:52:41.510  4667  4667 W art     :   native: #06 pc 0000000000122074  /system/lib64/libart.so (_ZN3art6mirror5Class11AllocObjectEPNS_6ThreadE+2392)
+08-27 18:52:41.510  4667  4667 W art     :   native: #07 pc 0000000000209588  /system/lib64/libart.so (???)
+08-27 18:52:41.510  4667  4667 W art     :   native: #08 pc 00000000001fe8d4  /system/lib64/libart.so (???)
+08-27 18:52:41.510  4667  4667 W art     :   native: #09 pc 00000000000a88a0  /system/lib64/libart.so (???)
+08-27 18:52:41.510  4667  4667 W art     :   native: #10 pc 00000000000b2920  /system/lib64/libart.so (???)
+08-27 18:52:41.510  4667  4667 W art     :   native: #11 pc 0000000000122074  /system/lib64/libart.so (_ZN3art6mirror5Class11AllocObjectEPNS_6ThreadE+2392)
+08-27 18:52:41.510  4667  4667 W art     :   native: #12 pc 00000000000dc8ac  /system/lib64/libart.so (???)
+08-27 18:52:41.510  4667  4667 W art     :   native: #13 pc 00000000000f5d38  /system/lib64/libart.so (_ZN3art8CheckJNI10NewObjectVEP7_JNIEnvP7_jclassP10_jmethodIDSt9__va_list+792)
+08-27 18:52:41.510  4667  4667 W art     :   native: #14 pc 00000000000f005c  /system/lib64/libart.so (???)
+08-27 18:52:41.510  4667  4667 W art     :   native: #15 pc 00000000001ddd2c  /system/lib64/libart.so (???)
+08-27 18:52:41.510  4667  4667 W art     :   native: #16 pc 0000000000154c04  /system/lib64/libart.so (???)
+08-27 18:52:41.510  4667  4667 W art     :   native: #17 pc 00000000000ccb48  /system/framework/arm64/boot.oat (Java_java_lang_reflect_Method_invoke__Ljava_lang_Object_2_3Ljava_lang_Object_2+180)
+08-27 18:52:41.510  4667  4667 W art     :   at java.lang.reflect.Method.invoke!(Native method)
+08-27 18:52:41.510  4667  4667 W art     :   at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:904)
+08-27 18:52:41.510  4667  4667 W art     :   at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:794)
+08-27 18:52:41.510  4667  4667 W art     : 
+08-27 18:52:41.510  4667  4667 D AndroidRuntime: Shutting down VM
+08-27 18:52:41.510  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.515  4667  4966 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 827us total 193.269ms
+08-27 18:52:41.516  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.516  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.516  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.516  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.557  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:41.557  4667  4966 I art     : Alloc partial concurrent mark sweep GC freed 6(288B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 948us total 40.918ms
+08-27 18:52:41.557  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.557  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.557  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.557  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.608  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:41.609  4667  4966 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 887us total 51.050ms
+08-27 18:52:41.609  4667  4966 I art     : Forcing collection of SoftReferences for 8KB allocation
+08-27 18:52:41.609  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.609  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.609  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.609  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.660  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:41.660  4667  4966 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 907us total 51.253ms
+08-27 18:52:41.660  4667  4966 W art     : Throwing OutOfMemoryError "Failed to allocate a 8204 byte allocation with 0 free bytes and -2MB until OOM"
+08-27 18:52:41.661  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.661  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.661  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.661  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.661  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.667  4667  4966 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 712us total 6.470ms
+08-27 18:52:41.667  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.668  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.668  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.668  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.706  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:41.706  4667  4966 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 896us total 37.888ms
+08-27 18:52:41.706  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.706  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.706  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.706  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.757  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:41.757  4667  4966 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 1.055ms total 50.932ms
+08-27 18:52:41.757  4667  4966 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:41.757  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.757  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.758  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.758  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.809  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:41.809  4667  4966 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 907us total 51.598ms
+08-27 18:52:41.809  4667  4966 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM" (recursive case)
+08-27 18:52:41.810  4667  4667 I art     : WaitForGcToComplete blocked for 299.460ms for cause Alloc
+08-27 18:52:41.810  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.810  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.810  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.810  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.810  4667  4966 W art     : "Picasso-/glance-dev/public/gamecenter/assets/Dunk shot/banner/Dunk_Shot_04.jpg" prio=5 tid=22 Runnable
+08-27 18:52:41.810  4667  4966 W art     :   | group="main" sCount=0 dsCount=0 obj=0x32c0eb80 self=0x7f89cece00
+08-27 18:52:41.810  4667  4966 W art     :   | sysTid=4966 nice=10 cgrp=default sched=0/0 handle=0x7f88f57450
+08-27 18:52:41.810  4667  4966 W art     :   | state=R schedstat=( 2679150151 62539848 800 ) utm=242 stm=25 core=5 HZ=100
+08-27 18:52:41.810  4667  4966 W art     :   | stack=0x7f88e55000-0x7f88e57000 stackSize=1037KB
+08-27 18:52:41.810  4667  4966 W art     :   | held mutexes= "mutator lock"(shared held)
+08-27 18:52:41.810  4667  4966 W art     :   at java.io.BufferedInputStream.fill(BufferedInputStream.java:222)
+08-27 18:52:41.810  4667  4966 W art     :   at java.io.BufferedInputStream.read1(BufferedInputStream.java:275)
+08-27 18:52:41.810  4667  4966 W art     :   at java.io.BufferedInputStream.read(BufferedInputStream.java:334)
+08-27 18:52:41.810  4667  4966 W art     :   at com.squareup.picasso.MarkableInputStream.read(MarkableInputStream.java:138)
+08-27 18:52:41.810  4667  4966 W art     :   at android.graphics.BitmapFactory.nativeDecodeStream(Native method)
+08-27 18:52:41.810  4667  4966 W art     :   at android.graphics.BitmapFactory.decodeStreamInternal(BitmapFactory.java:650)
+08-27 18:52:41.810  4667  4966 W art     :   at android.graphics.BitmapFactory.decodeStream(BitmapFactory.java:626)
+08-27 18:52:41.810  4667  4966 W art     :   at com.squareup.picasso.BitmapHunter.decodeStream(BitmapHunter.java:142)
+08-27 18:52:41.810  4667  4966 W art     :   at com.squareup.picasso.BitmapHunter.hunt(BitmapHunter.java:217)
+08-27 18:52:41.810  4667  4966 W art     :   at com.squareup.picasso.BitmapHunter.run(BitmapHunter.java:159)
+08-27 18:52:41.810  4667  4966 W art     :   at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:428)
+08-27 18:52:41.810  4667  4966 W art     :   at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+08-27 18:52:41.810  4667  4966 W art     :   at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+08-27 18:52:41.810  4667  4966 W art     :   at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+08-27 18:52:41.810  4667  4966 W art     :   at java.lang.Thread.run(Thread.java:760)
+08-27 18:52:41.810  4667  4966 W art     :   at com.squareup.picasso.Utils$PicassoThread.run(Utils.java:411)
+08-27 18:52:41.810  4667  4966 W art     : 
+08-27 18:52:41.811  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.816  4667  4667 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 768us total 6.508ms
+08-27 18:52:41.816  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.817  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.817  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.817  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.854  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:41.854  4667  4667 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 771us total 37.465ms
+08-27 18:52:41.854  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.855  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.855  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.855  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.905  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:41.905  4667  4667 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 943us total 50.400ms
+08-27 18:52:41.905  4667  4667 I art     : Forcing collection of SoftReferences for 16B allocation
+08-27 18:52:41.905  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.906  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.906  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.906  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.956  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:41.956  4667  4667 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 895us total 50.593ms
+08-27 18:52:41.957  4667  4667 W art     : Throwing OutOfMemoryError "Failed to allocate a 16 byte allocation with 0 free bytes and -2MB until OOM"
+08-27 18:52:41.957  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.957  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.957  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.957  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.957  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.963  4667  4667 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 667us total 6.215ms
+08-27 18:52:41.963  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:41.963  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.963  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:41.963  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.001  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.001  4667  4667 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 721us total 37.364ms
+08-27 18:52:42.001  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.001  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.001  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.002  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.053  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.053  4667  4667 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 908us total 51.434ms
+08-27 18:52:42.053  4667  4667 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:42.053  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.053  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.053  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.053  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.104  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.104  4667  4667 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 784us total 50.337ms
+08-27 18:52:42.104  4667  4667 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM" (recursive case)
+08-27 18:52:42.104  4667  4678 I art     : WaitForGcToComplete blocked for 1.073s for cause Alloc
+08-27 18:52:42.104  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.104  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.105  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.105  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.105  4667  4667 W art     : "main" prio=5 tid=1 Runnable
+08-27 18:52:42.105  4667  4667 W art     :   | group="main" sCount=0 dsCount=0 obj=0x758629d0 self=0x7fa7643a00
+08-27 18:52:42.105  4667  4667 W art     :   | sysTid=4667 nice=-20 cgrp=default sched=1073741825/1 handle=0x7fab6b2aa0
+08-27 18:52:42.105  4667  4667 W art     :   | state=R schedstat=( 43776299633 7212097075 32419 ) utm=3607 stm=770 core=2 HZ=100
+08-27 18:52:42.105  4667  4667 W art     :   | stack=0x7fc527a000-0x7fc527c000 stackSize=8MB
+08-27 18:52:42.105  4667  4667 W art     :   | held mutexes= "mutator lock"(shared held)
+08-27 18:52:42.105  4667  4667 W art     :   at com.android.internal.os.RuntimeInit$LoggingHandler.uncaughtException(RuntimeInit.java:153)
+08-27 18:52:42.105  4667  4667 W art     :   at java.lang.Thread.dispatchUncaughtException(Thread.java:1974)
+08-27 18:52:42.105  4667  4667 W art     : 
+08-27 18:52:42.105  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.111  4667  4678 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 968us total 6.840ms
+08-27 18:52:42.112  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.112  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.112  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.112  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.150  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.150  4667  4678 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 793us total 38.164ms
+08-27 18:52:42.150  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.151  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.151  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.151  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.201  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.202  4667  4678 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 810us total 50.749ms
+08-27 18:52:42.202  4667  4678 I art     : Forcing collection of SoftReferences for 24B allocation
+08-27 18:52:42.202  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.202  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.202  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.202  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.253  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.253  4667  4678 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 985us total 51.061ms
+08-27 18:52:42.253  4667  4678 W art     : Throwing OutOfMemoryError "Failed to allocate a 24 byte allocation with 0 free bytes and -2MB until OOM"
+08-27 18:52:42.254  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.254  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.254  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.254  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.254  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.260  4667  4678 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 729us total 6.403ms
+08-27 18:52:42.260  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.261  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.261  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.261  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.298  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.298  4667  4678 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 738us total 37.689ms
+08-27 18:52:42.299  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.299  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.299  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.299  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.350  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.350  4667  4678 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 1.027ms total 51.090ms
+08-27 18:52:42.350  4667  4678 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:42.350  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.350  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.351  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.351  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.401  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.401  4667  4678 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 807us total 50.668ms
+08-27 18:52:42.402  4667  4678 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM" (recursive case)
+08-27 18:52:42.402  4667  4667 I art     : WaitForGcToComplete blocked for 296.769ms for cause Alloc
+08-27 18:52:42.402  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.402  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.402  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.402  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.444  4667  4678 W art     : "FinalizerDaemon" daemon prio=5 tid=6 Runnable
+08-27 18:52:42.444  4667  4678 W art     :   | group="system" sCount=0 dsCount=0 obj=0x32c0c310 self=0x7fa76c5200
+08-27 18:52:42.444  4667  4678 W art     :   | sysTid=4678 nice=0 cgrp=default sched=0/0 handle=0x7fa6907450
+08-27 18:52:42.444  4667  4678 W art     :   | state=R schedstat=( 708956598 24561570 484 ) utm=66 stm=4 core=7 HZ=100
+08-27 18:52:42.444  4667  4678 W art     :   | stack=0x7fa6805000-0x7fa6807000 stackSize=1037KB
+08-27 18:52:42.444  4667  4678 W art     :   | held mutexes= "mutator lock"(shared held)
+08-27 18:52:42.444  4667  4678 W art     :   native: #00 pc 000000000022d0c4  /system/lib64/libart.so (???)
+08-27 18:52:42.444  4667  4678 W art     :   native: #01 pc 000000000022d0c0  /system/lib64/libart.so (???)
+08-27 18:52:42.444  4667  4678 W art     :   native: #02 pc 0000000000200e14  /system/lib64/libart.so (???)
+08-27 18:52:42.444  4667  4678 W art     :   native: #03 pc 00000000001fe884  /system/lib64/libart.so (???)
+08-27 18:52:42.444  4667  4678 W art     :   native: #04 pc 00000000000a88a0  /system/lib64/libart.so (???)
+08-27 18:52:42.444  4667  4678 W art     :   native: #05 pc 00000000000b2920  /system/lib64/libart.so (???)
+08-27 18:52:42.444  4667  4678 W art     :   native: #06 pc 0000000000122074  /system/lib64/libart.so (_ZN3art6mirror5Class11AllocObjectEPNS_6ThreadE+2392)
+08-27 18:52:42.444  4667  4678 W art     :   native: #07 pc 0000000000209588  /system/lib64/libart.so (???)
+08-27 18:52:42.444  4667  4678 W art     :   native: #08 pc 00000000001fe8d4  /system/lib64/libart.so (???)
+08-27 18:52:42.444  4667  4678 W art     :   native: #09 pc 00000000000a88a0  /system/lib64/libart.so (???)
+08-27 18:52:42.444  4667  4678 W art     :   native: #10 pc 00000000000b2920  /system/lib64/libart.so (???)
+08-27 18:52:42.444  4667  4678 W art     :   native: #11 pc 0000000000122074  /system/lib64/libart.so (_ZN3art6mirror5Class11AllocObjectEPNS_6ThreadE+2392)
+08-27 18:52:42.444  4667  4678 W art     :   native: #12 pc 00000000000dc8ac  /system/lib64/libart.so (???)
+08-27 18:52:42.444  4667  4678 W art     :   native: #13 pc 00000000000f5d38  /system/lib64/libart.so (_ZN3art8CheckJNI10NewObjectVEP7_JNIEnvP7_jclassP10_jmethodIDSt9__va_list+792)
+08-27 18:52:42.444  4667  4678 W art     :   native: #14 pc 00000000000f59fc  /system/lib64/libart.so (_ZN3art8CheckJNI9NewObjectEP7_JNIEnvP7_jclassP10_jmethodIDz+116)
+08-27 18:52:42.444  4667  4678 W art     :   native: #15 pc 0000000000003314  /system/lib64/libnativehelper.so (jniLogException+340)
+08-27 18:52:42.444  4667  4678 W art     :   native: #16 pc 00000000000b3f1c  /system/framework/arm64/boot.oat (Java_java_lang_System_log__CLjava_lang_String_2Ljava_lang_Throwable_2+184)
+08-27 18:52:42.444  4667  4678 W art     :   at java.lang.System.log(Native method)
+08-27 18:52:42.444  4667  4678 W art     :   at java.lang.System.logE(System.java:1625)
+08-27 18:52:42.444  4667  4678 W art     :   at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:227)
+08-27 18:52:42.444  4667  4678 W art     :   at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:211)
+08-27 18:52:42.444  4667  4678 W art     :   at java.lang.Thread.run(Thread.java:760)
+08-27 18:52:42.444  4667  4678 W art     : 
+08-27 18:52:42.444  4667  4678 E System  : java.lang.OutOfMemoryError: OutOfMemoryError thrown while trying to throw OutOfMemoryError; no stack trace available
+08-27 18:52:42.449  4667  4667 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 700us total 47.576ms
+08-27 18:52:42.450  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.450  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.450  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.459  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.488  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.488  4667  4667 I art     : Alloc partial concurrent mark sweep GC freed 10(240B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 875us total 37.664ms
+08-27 18:52:42.488  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.488  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.488  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.488  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.539  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.539  4667  4667 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 846us total 50.517ms
+08-27 18:52:42.539  4667  4667 I art     : Forcing collection of SoftReferences for 128B allocation
+08-27 18:52:42.539  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.539  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.539  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.539  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.590  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.590  4667  4667 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 798us total 50.699ms
+08-27 18:52:42.590  4667  4667 W art     : Throwing OutOfMemoryError "Failed to allocate a 128 byte allocation with 0 free bytes and -2MB until OOM"
+08-27 18:52:42.590  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.590  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.590  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.590  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.591  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.597  4667  4667 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 1.041ms total 6.945ms
+08-27 18:52:42.598  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.598  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.598  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.598  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.636  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.636  4667  4667 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 783us total 37.971ms
+08-27 18:52:42.636  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.636  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.636  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.636  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.687  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.687  4667  4667 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 942us total 50.362ms
+08-27 18:52:42.687  4667  4667 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:42.687  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.687  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.687  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.687  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.738  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.738  4667  4667 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 978us total 50.839ms
+08-27 18:52:42.738  4667  4667 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM" (recursive case)
+08-27 18:52:42.738  4667  4966 I art     : WaitForGcToComplete blocked for 927.863ms for cause Alloc
+08-27 18:52:42.738  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.739  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.739  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.739  4667  4667 W art     : "main" prio=5 tid=1 Runnable
+08-27 18:52:42.739  4667  4667 W art     :   | group="main" sCount=0 dsCount=0 obj=0x758629d0 self=0x7fa7643a00
+08-27 18:52:42.739  4667  4667 W art     :   | sysTid=4667 nice=-20 cgrp=default sched=1073741825/1 handle=0x7fab6b2aa0
+08-27 18:52:42.739  4667  4667 W art     :   | state=R schedstat=( 44066657506 7214144782 32429 ) utm=3636 stm=770 core=2 HZ=100
+08-27 18:52:42.739  4667  4667 W art     :   | stack=0x7fc527a000-0x7fc527c000 stackSize=8MB
+08-27 18:52:42.739  4667  4667 W art     :   | held mutexes= "mutator lock"(shared held)
+08-27 18:52:42.739  4667  4667 W art     :   at com.xiaomi.stat.e.a(unavailable:404)
+08-27 18:52:42.739  4667  4667 W art     :   at com.xiaomi.stat.J.uncaughtException(unavailable:32)
+08-27 18:52:42.739  4667  4667 W art     :   at java.lang.ThreadGroup.uncaughtException(ThreadGroup.java:1068)
+08-27 18:52:42.739  4667  4667 W art     :   at java.lang.ThreadGroup.uncaughtException(ThreadGroup.java:1063)
+08-27 18:52:42.739  4667  4667 W art     :   at java.lang.Thread.dispatchUncaughtException(Thread.java:1979)
+08-27 18:52:42.739  4667  4667 W art     : 
+08-27 18:52:42.739  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.742  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.746  4667  4966 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 887us total 7.134ms
+08-27 18:52:42.746  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.746  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.746  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.746  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.784  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.784  4667  4966 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 976us total 38.085ms
+08-27 18:52:42.785  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.785  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.785  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.785  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.836  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.836  4667  4966 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 957us total 51.132ms
+08-27 18:52:42.836  4667  4966 I art     : Forcing collection of SoftReferences for 12B allocation
+08-27 18:52:42.836  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.836  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.837  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.837  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.888  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.888  4667  4966 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 931us total 51.145ms
+08-27 18:52:42.888  4667  4966 W art     : Throwing OutOfMemoryError "Failed to allocate a 12 byte allocation with 0 free bytes and -2MB until OOM"
+08-27 18:52:42.888  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.888  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.888  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.888  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.888  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.895  4667  4966 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 810us total 6.414ms
+08-27 18:52:42.895  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.895  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.895  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.895  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.933  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.933  4667  4966 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 924us total 37.984ms
+08-27 18:52:42.933  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.934  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.934  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.934  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.985  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:42.985  4667  4966 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 1.090ms total 51.280ms
+08-27 18:52:42.985  4667  4966 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:42.985  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:42.985  4667  4667 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.985  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:42.986  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.037  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.037  4667  4966 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 949us total 50.936ms
+08-27 18:52:43.037  4667  4966 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM" (recursive case)
+08-27 18:52:43.037  4667  4667 I art     : WaitForGcToComplete blocked for 297.978ms for cause Alloc
+08-27 18:52:43.037  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.037  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.037  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.037  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.037  4667  4966 W art     : "Picasso-/glance-dev/public/gamecenter/assets/Dunk shot/banner/Dunk_Shot_04.jpg" prio=5 tid=22 Runnable
+08-27 18:52:43.037  4667  4966 W art     :   | group="main" sCount=0 dsCount=0 obj=0x32c0eb80 self=0x7f89cece00
+08-27 18:52:43.037  4667  4966 W art     :   | sysTid=4966 nice=10 cgrp=default sched=0/0 handle=0x7f88f57450
+08-27 18:52:43.037  4667  4966 W art     :   | state=R schedstat=( 2979934421 63818129 833 ) utm=271 stm=26 core=4 HZ=100
+08-27 18:52:43.037  4667  4966 W art     :   | stack=0x7f88e55000-0x7f88e57000 stackSize=1037KB
+08-27 18:52:43.038  4667  4966 W art     :   | held mutexes= "mutator lock"(shared held)
+08-27 18:52:43.038  4667  4966 W art     :   at java.lang.Throwable.printStackTrace(Throwable.java:635)
+08-27 18:52:43.038  4667  4966 W art     :   at java.lang.Throwable.printStackTrace(Throwable.java:626)
+08-27 18:52:43.038  4667  4966 W art     :   at android.graphics.BitmapFactory.nativeDecodeStream(Native method)
+08-27 18:52:43.038  4667  4966 W art     :   at android.graphics.BitmapFactory.decodeStreamInternal(BitmapFactory.java:650)
+08-27 18:52:43.038  4667  4966 W art     :   at android.graphics.BitmapFactory.decodeStream(BitmapFactory.java:626)
+08-27 18:52:43.038  4667  4966 W art     :   at com.squareup.picasso.BitmapHunter.decodeStream(BitmapHunter.java:142)
+08-27 18:52:43.038  4667  4966 W art     :   at com.squareup.picasso.BitmapHunter.hunt(BitmapHunter.java:217)
+08-27 18:52:43.038  4667  4966 W art     :   at com.squareup.picasso.BitmapHunter.run(BitmapHunter.java:159)
+08-27 18:52:43.038  4667  4966 W art     :   at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:428)
+08-27 18:52:43.038  4667  4966 W art     :   at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+08-27 18:52:43.038  4667  4966 W art     :   at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+08-27 18:52:43.038  4667  4966 W art     :   at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+08-27 18:52:43.038  4667  4966 W art     :   at java.lang.Thread.run(Thread.java:760)
+08-27 18:52:43.038  4667  4966 W art     :   at com.squareup.picasso.Utils$PicassoThread.run(Utils.java:411)
+08-27 18:52:43.038  4667  4966 W art     : 
+08-27 18:52:43.038  4667  4966 W art     : JNI WARNING: java.lang.OutOfMemoryError thrown while calling printStackTrace
+08-27 18:52:43.038  4667  4966 D skia    : ---- read threw an exception
+08-27 18:52:43.038  4667  4966 D skia    : libjpeg error 98 <RST0> from Incomplete image data
+08-27 18:52:43.044  4667  4667 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 756us total 6.843ms
+08-27 18:52:43.044  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.044  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.045  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.054  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.082  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.082  4667  4667 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 823us total 37.079ms
+08-27 18:52:43.082  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.082  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.082  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.082  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.131  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.131  4667  4667 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 770us total 48.998ms
+08-27 18:52:43.131  4667  4667 I art     : Forcing collection of SoftReferences for 56B allocation
+08-27 18:52:43.131  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.132  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.132  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.132  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.182  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.182  4667  4667 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 916us total 50.101ms
+08-27 18:52:43.182  4667  4667 W art     : Throwing OutOfMemoryError "Failed to allocate a 56 byte allocation with 0 free bytes and -2MB until OOM"
+08-27 18:52:43.182  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.182  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.182  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.182  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.182  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.189  4667  4667 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 687us total 6.244ms
+08-27 18:52:43.189  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.189  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.189  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.189  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.227  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.227  4667  4667 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 765us total 37.618ms
+08-27 18:52:43.227  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.227  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.227  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.227  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.278  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.278  4667  4667 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 847us total 50.454ms
+08-27 18:52:43.278  4667  4667 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:43.278  4667  4667 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.278  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.278  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.278  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.329  4667  4667 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.329  4667  4667 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 818us total 50.343ms
+08-27 18:52:43.329  4667  4667 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM" (recursive case)
+08-27 18:52:43.329  4667  5139 I art     : WaitForGcToComplete blocked for 3.009s for cause Alloc
+08-27 18:52:43.329  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.329  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.329  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.329  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.329  4667  4667 W art     : "main" prio=5 tid=1 Runnable
+08-27 18:52:43.329  4667  4667 W art     :   | group="main" sCount=0 dsCount=0 obj=0x758629d0 self=0x7fa7643a00
+08-27 18:52:43.329  4667  4667 W art     :   | sysTid=4667 nice=-20 cgrp=default sched=1073741825/1 handle=0x7fab6b2aa0
+08-27 18:52:43.329  4667  4667 W art     :   | state=R schedstat=( 44357427350 7215686448 32437 ) utm=3665 stm=770 core=3 HZ=100
+08-27 18:52:43.329  4667  4667 W art     :   | stack=0x7fc527a000-0x7fc527c000 stackSize=8MB
+08-27 18:52:43.329  4667  4667 W art     :   | held mutexes= "mutator lock"(shared held)
+08-27 18:52:43.329  4667  4667 W art     :   at com.xiaomi.stat.e.a(unavailable:404)
+08-27 18:52:43.329  4667  4667 W art     :   at com.xiaomi.stat.J.uncaughtException(unavailable:32)
+08-27 18:52:43.329  4667  4667 W art     :   at java.lang.ThreadGroup.uncaughtException(ThreadGroup.java:1068)
+08-27 18:52:43.329  4667  4667 W art     :   at java.lang.ThreadGroup.uncaughtException(ThreadGroup.java:1063)
+08-27 18:52:43.329  4667  4667 W art     :   at java.lang.Thread.dispatchUncaughtException(Thread.java:1979)
+08-27 18:52:43.329  4667  4667 W art     : 
+08-27 18:52:43.362  4667  5139 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 27.460ms total 33.021ms
+08-27 18:52:43.362  4667  4680 I art     : Waiting for a blocking GC HeapTrim
+08-27 18:52:43.362  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.362  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.363  4667  4680 I art     : Waiting for a blocking GC HeapTrim
+08-27 18:52:43.363  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.401  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.401  4667  5139 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 928us total 38.392ms
+08-27 18:52:43.401  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.402  4667  4680 I art     : Waiting for a blocking GC HeapTrim
+08-27 18:52:43.402  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.402  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.453  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.454  4667  5139 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 897us total 51.680ms
+08-27 18:52:43.454  4667  5139 I art     : Forcing collection of SoftReferences for 8KB allocation
+08-27 18:52:43.454  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.454  4667  4680 I art     : Waiting for a blocking GC HeapTrim
+08-27 18:52:43.454  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.454  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.506  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.506  4667  5139 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 967us total 51.807ms
+08-27 18:52:43.506  4667  5139 W art     : Throwing OutOfMemoryError "Failed to allocate a 8204 byte allocation with 0 free bytes and -2MB until OOM"
+08-27 18:52:43.506  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.506  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.506  4667  4680 I art     : Waiting for a blocking GC HeapTrim
+08-27 18:52:43.506  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.506  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.512  4667  5139 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 674us total 6.088ms
+08-27 18:52:43.512  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.513  4667  4680 I art     : Waiting for a blocking GC HeapTrim
+08-27 18:52:43.513  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.513  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.550  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.551  4667  5139 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 723us total 37.637ms
+08-27 18:52:43.551  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.551  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.551  4667  4680 I art     : Waiting for a blocking GC HeapTrim
+08-27 18:52:43.551  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.601  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.602  4667  5139 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 778us total 50.487ms
+08-27 18:52:43.602  4667  5139 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:43.602  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.602  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.602  4667  4680 I art     : Waiting for a blocking GC HeapTrim
+08-27 18:52:43.602  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.653  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.653  4667  5139 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 786us total 50.547ms
+08-27 18:52:43.653  4667  5139 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM" (recursive case)
+08-27 18:52:43.653  4667  7240 I art     : WaitForGcToComplete blocked for 1.193s for cause Alloc
+08-27 18:52:43.653  4667  7240 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.653  4667  7240 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.653  4667  4680 I art     : Waiting for a blocking GC HeapTrim
+08-27 18:52:43.653  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.654  4667  5139 W art     : "Picasso-/glance-dev/public/gamecenter/assets/THOR Game/banner/Thor_Game_marvel_.jpg" prio=5 tid=42 Runnable
+08-27 18:52:43.654  4667  5139 W art     :   | group="main" sCount=0 dsCount=0 obj=0x32c0eca0 self=0x7f89d8a200
+08-27 18:52:43.654  4667  5139 W art     :   | sysTid=5139 nice=10 cgrp=default sched=0/0 handle=0x7f826ec450
+08-27 18:52:43.654  4667  5139 W art     :   | state=R schedstat=( 2016617613 82901520 741 ) utm=177 stm=24 core=7 HZ=100
+08-27 18:52:43.654  4667  5139 W art     :   | stack=0x7f825ea000-0x7f825ec000 stackSize=1037KB
+08-27 18:52:43.654  4667  5139 W art     :   | held mutexes= "mutator lock"(shared held)
+08-27 18:52:43.654  4667  5139 W art     :   at java.io.BufferedInputStream.fill(BufferedInputStream.java:222)
+08-27 18:52:43.654  4667  5139 W art     :   at java.io.BufferedInputStream.read1(BufferedInputStream.java:275)
+08-27 18:52:43.654  4667  5139 W art     :   at java.io.BufferedInputStream.read(BufferedInputStream.java:334)
+08-27 18:52:43.654  4667  5139 W art     :   at com.squareup.picasso.MarkableInputStream.read(MarkableInputStream.java:138)
+08-27 18:52:43.654  4667  5139 W art     :   at android.graphics.BitmapFactory.nativeDecodeStream(Native method)
+08-27 18:52:43.654  4667  5139 W art     :   at android.graphics.BitmapFactory.decodeStreamInternal(BitmapFactory.java:650)
+08-27 18:52:43.654  4667  5139 W art     :   at android.graphics.BitmapFactory.decodeStream(BitmapFactory.java:626)
+08-27 18:52:43.654  4667  5139 W art     :   at com.squareup.picasso.BitmapHunter.decodeStream(BitmapHunter.java:142)
+08-27 18:52:43.654  4667  5139 W art     :   at com.squareup.picasso.BitmapHunter.hunt(BitmapHunter.java:217)
+08-27 18:52:43.654  4667  5139 W art     :   at com.squareup.picasso.BitmapHunter.run(BitmapHunter.java:159)
+08-27 18:52:43.654  4667  5139 W art     :   at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:428)
+08-27 18:52:43.654  4667  5139 W art     :   at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+08-27 18:52:43.654  4667  5139 W art     :   at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+08-27 18:52:43.654  4667  5139 W art     :   at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+08-27 18:52:43.654  4667  5139 W art     :   at java.lang.Thread.run(Thread.java:760)
+08-27 18:52:43.654  4667  5139 W art     :   at com.squareup.picasso.Utils$PicassoThread.run(Utils.java:411)
+08-27 18:52:43.654  4667  5139 W art     : 
+08-27 18:52:43.654  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.659  4667  7240 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 722us total 6.380ms
+08-27 18:52:43.660  4667  4680 I art     : WaitForGcToComplete blocked for 297.246ms for cause HeapTrim
+08-27 18:52:43.660  4667  4680 I art     : Starting a blocking GC HeapTrim
+08-27 18:52:43.660  4667  5139 I art     : WaitForGcToComplete blocked for 5.785ms for cause Alloc
+08-27 18:52:43.660  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.660  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.660  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.660  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.660  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.698  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.698  4667  5139 I art     : Alloc partial concurrent mark sweep GC freed 4(168B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 710us total 37.782ms
+08-27 18:52:43.698  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.698  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.698  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.698  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.705  4667  5139 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 993us total 6.349ms
+08-27 18:52:43.705  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.705  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.705  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.705  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.756  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.756  4667  5139 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 929us total 50.777ms
+08-27 18:52:43.756  4667  5139 I art     : Forcing collection of SoftReferences for 12B allocation
+08-27 18:52:43.756  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.756  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.756  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.756  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.807  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.807  4667  5139 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 911us total 50.781ms
+08-27 18:52:43.807  4667  5139 W art     : Throwing OutOfMemoryError "Failed to allocate a 12 byte allocation with 0 free bytes and -2MB until OOM"
+08-27 18:52:43.807  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.808  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.808  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.808  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.808  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.814  4667  5139 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 785us total 6.289ms
+08-27 18:52:43.814  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.814  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.814  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.814  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.853  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.853  4667  5139 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 871us total 38.229ms
+08-27 18:52:43.853  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.853  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.853  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.853  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.904  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.904  4667  5139 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 853us total 51.185ms
+08-27 18:52:43.905  4667  5139 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:43.905  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.905  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.905  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.905  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.956  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:43.956  4667  5139 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 895us total 51.070ms
+08-27 18:52:43.956  4667  5139 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM" (recursive case)
+08-27 18:52:43.956  4667  4676 I art     : WaitForGcToComplete blocked for 296.264ms for cause Alloc
+08-27 18:52:43.956  4667  4676 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.956  4667  4676 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.957  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.957  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.957  4667  5139 W art     : "Picasso-/glance-dev/public/gamecenter/assets/THOR Game/banner/Thor_Game_marvel_.jpg" prio=5 tid=42 Runnable
+08-27 18:52:43.957  4667  5139 W art     :   | group="main" sCount=0 dsCount=0 obj=0x32c0eca0 self=0x7f89d8a200
+08-27 18:52:43.957  4667  5139 W art     :   | sysTid=5139 nice=10 cgrp=default sched=0/0 handle=0x7f826ec450
+08-27 18:52:43.957  4667  5139 W art     :   | state=R schedstat=( 2307375996 82901520 742 ) utm=206 stm=24 core=7 HZ=100
+08-27 18:52:43.957  4667  5139 W art     :   | stack=0x7f825ea000-0x7f825ec000 stackSize=1037KB
+08-27 18:52:43.957  4667  5139 W art     :   | held mutexes= "mutator lock"(shared held)
+08-27 18:52:43.957  4667  5139 W art     :   at java.lang.Throwable.printStackTrace(Throwable.java:635)
+08-27 18:52:43.957  4667  5139 W art     :   at java.lang.Throwable.printStackTrace(Throwable.java:626)
+08-27 18:52:43.957  4667  5139 W art     :   at android.graphics.BitmapFactory.nativeDecodeStream(Native method)
+08-27 18:52:43.957  4667  5139 W art     :   at android.graphics.BitmapFactory.decodeStreamInternal(BitmapFactory.java:650)
+08-27 18:52:43.957  4667  5139 W art     :   at android.graphics.BitmapFactory.decodeStream(BitmapFactory.java:626)
+08-27 18:52:43.957  4667  5139 W art     :   at com.squareup.picasso.BitmapHunter.decodeStream(BitmapHunter.java:142)
+08-27 18:52:43.957  4667  5139 W art     :   at com.squareup.picasso.BitmapHunter.hunt(BitmapHunter.java:217)
+08-27 18:52:43.957  4667  5139 W art     :   at com.squareup.picasso.BitmapHunter.run(BitmapHunter.java:159)
+08-27 18:52:43.957  4667  5139 W art     :   at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:428)
+08-27 18:52:43.957  4667  5139 W art     :   at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+08-27 18:52:43.957  4667  5139 W art     :   at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+08-27 18:52:43.957  4667  5139 W art     :   at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+08-27 18:52:43.957  4667  5139 W art     :   at java.lang.Thread.run(Thread.java:760)
+08-27 18:52:43.957  4667  5139 W art     :   at com.squareup.picasso.Utils$PicassoThread.run(Utils.java:411)
+08-27 18:52:43.957  4667  5139 W art     : 
+08-27 18:52:43.957  4667  5139 W art     : JNI WARNING: java.lang.OutOfMemoryError thrown while calling printStackTrace
+08-27 18:52:43.957  4667  5139 D skia    : ---- read threw an exception
+08-27 18:52:43.957  4667  5139 D skia    : libjpeg error 98 <RST4> from Incomplete image data
+08-27 18:52:43.964  4667  4676 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 1.156ms total 7.457ms
+08-27 18:52:43.964  4667  4676 I art     : Starting a blocking GC Alloc
+08-27 18:52:43.964  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.965  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:43.972  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.002  4667  4676 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.002  4667  4676 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 680us total 37.817ms
+08-27 18:52:44.003  4667  4676 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.003  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.003  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.003  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.052  4667  4676 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.053  4667  4676 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 781us total 49.628ms
+08-27 18:52:44.053  4667  4676 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:44.053  4667  4676 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.053  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.053  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.053  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.103  4667  4676 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.103  4667  4676 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 803us total 50.290ms
+08-27 18:52:44.104  4667  4676 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM"
+08-27 18:52:44.104  4667  4966 I art     : WaitForGcToComplete blocked for 1.049s for cause Alloc
+08-27 18:52:44.104  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.104  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.104  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.104  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.104  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.110  4667  4966 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 688us total 6.437ms
+08-27 18:52:44.110  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.111  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.111  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.111  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.148  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.148  4667  4966 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 881us total 37.651ms
+08-27 18:52:44.149  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.149  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.149  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.149  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.200  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.200  4667  4966 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 759us total 51.529ms
+08-27 18:52:44.201  4667  4966 I art     : Forcing collection of SoftReferences for 43B allocation
+08-27 18:52:44.201  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.201  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.201  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.201  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.252  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.252  4667  4966 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 825us total 51.127ms
+08-27 18:52:44.252  4667  4966 W art     : Throwing OutOfMemoryError "Failed to allocate a 43 byte allocation with 0 free bytes and -2MB until OOM"
+08-27 18:52:44.252  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.252  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.252  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.252  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.253  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.259  4667  4966 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 655us total 6.134ms
+08-27 18:52:44.259  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.259  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.259  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.259  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.297  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.297  4667  4966 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 804us total 37.978ms
+08-27 18:52:44.297  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.297  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.297  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.298  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.349  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.349  4667  4966 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 1.012ms total 51.047ms
+08-27 18:52:44.349  4667  4966 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:44.349  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.349  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.349  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.349  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.400  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.400  4667  4966 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 744us total 50.540ms
+08-27 18:52:44.400  4667  4966 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM" (recursive case)
+08-27 18:52:44.400  4667  7240 I art     : WaitForGcToComplete blocked for 739.907ms for cause Alloc
+08-27 18:52:44.400  4667  7240 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.400  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.400  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.477  4667  4966 W art     : "Picasso-/glance-dev/public/gamecenter/assets/Dunk shot/banner/Dunk_Shot_04.jpg" prio=5 tid=22 Runnable
+08-27 18:52:44.477  4667  4966 W art     :   | group="main" sCount=0 dsCount=0 obj=0x32c0eb80 self=0x7f89cece00
+08-27 18:52:44.477  4667  4966 W art     :   | sysTid=4966 nice=10 cgrp=default sched=0/0 handle=0x7f88f57450
+08-27 18:52:44.477  4667  4966 W art     :   | state=R schedstat=( 3290722547 65845371 866 ) utm=301 stm=28 core=4 HZ=100
+08-27 18:52:44.477  4667  4966 W art     :   | stack=0x7f88e55000-0x7f88e57000 stackSize=1037KB
+08-27 18:52:44.477  4667  4966 W art     :   | held mutexes= "mutator lock"(shared held)
+08-27 18:52:44.477  4667  4966 W art     :   native: #00 pc 000000000022d0c4  /system/lib64/libart.so (???)
+08-27 18:52:44.477  4667  4966 W art     :   native: #01 pc 000000000022d0c0  /system/lib64/libart.so (???)
+08-27 18:52:44.477  4667  4966 W art     :   native: #02 pc 0000000000200e14  /system/lib64/libart.so (???)
+08-27 18:52:44.477  4667  4966 W art     :   native: #03 pc 00000000001fe884  /system/lib64/libart.so (???)
+08-27 18:52:44.477  4667  4966 W art     :   native: #04 pc 00000000000a88a0  /system/lib64/libart.so (???)
+08-27 18:52:44.477  4667  4966 W art     :   native: #05 pc 00000000000b2920  /system/lib64/libart.so (???)
+08-27 18:52:44.477  4667  4966 W art     :   native: #06 pc 0000000000122074  /system/lib64/libart.so (_ZN3art6mirror5Class11AllocObjectEPNS_6ThreadE+2392)
+08-27 18:52:44.477  4667  4966 W art     :   native: #07 pc 0000000000209588  /system/lib64/libart.so (???)
+08-27 18:52:44.477  4667  4966 W art     :   native: #08 pc 00000000001fe8d4  /system/lib64/libart.so (???)
+08-27 18:52:44.477  4667  4966 W art     :   native: #09 pc 00000000000a88a0  /system/lib64/libart.so (???)
+08-27 18:52:44.477  4667  4966 W art     :   native: #10 pc 00000000000b2920  /system/lib64/libart.so (???)
+08-27 18:52:44.477  4667  4966 W art     :   native: #11 pc 0000000000122074  /system/lib64/libart.so (_ZN3art6mirror5Class11AllocObjectEPNS_6ThreadE+2392)
+08-27 18:52:44.477  4667  4966 W art     :   native: #12 pc 00000000000dc8ac  /system/lib64/libart.so (???)
+08-27 18:52:44.477  4667  4966 W art     :   native: #13 pc 00000000000f5d38  /system/lib64/libart.so (_ZN3art8CheckJNI10NewObjectVEP7_JNIEnvP7_jclassP10_jmethodIDSt9__va_list+792)
+08-27 18:52:44.477  4667  4966 W art     :   native: #14 pc 00000000000a6950  /system/lib64/libandroid_runtime.so (???)
+08-27 18:52:44.477  4667  4966 W art     :   native: #15 pc 00000000001117e8  /system/lib64/libandroid_runtime.so (_ZN11GraphicsJNI12createBitmapEP7_JNIEnvPN7android6BitmapEiP11_jbyteArrayP8_jobjecti+184)
+08-27 18:52:44.477  4667  4966 W art     :   native: #16 pc 000000000010e574  /system/lib64/libandroid_runtime.so (???)
+08-27 18:52:44.477  4667  4966 W art     :   native: #17 pc 00000000004234cc  /system/framework/arm64/boot-framework.oat (Java_android_graphics_BitmapFactory_nativeDecodeStream__Ljava_io_InputStream_2_3BLandroid_graphics_Rect_2Landroid_graphics_BitmapFactory_00024Options_2+232)
+08-27 18:52:44.477  4667  4966 W art     :   at android.graphics.BitmapFactory.nativeDecodeStream(Native method)
+08-27 18:52:44.477  4667  4966 W art     :   at android.graphics.BitmapFactory.decodeStreamInternal(BitmapFactory.java:650)
+08-27 18:52:44.477  4667  4966 W art     :   at android.graphics.BitmapFactory.decodeStream(BitmapFactory.java:626)
+08-27 18:52:44.477  4667  4966 W art     :   at com.squareup.picasso.BitmapHunter.decodeStream(BitmapHunter.java:142)
+08-27 18:52:44.477  4667  4966 W art     :   at com.squareup.picasso.BitmapHunter.hunt(BitmapHunter.java:217)
+08-27 18:52:44.477  4667  4966 W art     :   at com.squareup.picasso.BitmapHunter.run(BitmapHunter.java:159)
+08-27 18:52:44.477  4667  4966 W art     :   at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:428)
+08-27 18:52:44.477  4667  4966 W art     :   at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+08-27 18:52:44.477  4667  4966 W art     :   at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+08-27 18:52:44.477  4667  4966 W art     :   at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+08-27 18:52:44.477  4667  4966 W art     :   at java.lang.Thread.run(Thread.java:760)
+08-27 18:52:44.477  4667  4966 W art     :   at com.squareup.picasso.Utils$PicassoThread.run(Utils.java:411)
+08-27 18:52:44.477  4667  4966 W art     : 
+08-27 18:52:44.477  4667  4966 E GraphicsJNI: *** Uncaught exception returned from Java call!
+08-27 18:52:44.478  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.529  4667  7240 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.529  4667  7240 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 976us total 128.124ms
+08-27 18:52:44.529  4667  7240 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.529  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.529  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.529  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.584  4667  7240 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.584  4667  7240 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 985us total 54.483ms
+08-27 18:52:44.584  4667  7240 I art     : Forcing collection of SoftReferences for 12B allocation
+08-27 18:52:44.584  4667  7240 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.584  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.584  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.584  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.635  4667  7240 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.635  4667  7240 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 977us total 50.826ms
+08-27 18:52:44.635  4667  7240 W art     : Throwing OutOfMemoryError "Failed to allocate a 12 byte allocation with 0 free bytes and -2MB until OOM"
+08-27 18:52:44.635  4667  7240 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.635  4667  7240 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.635  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.635  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.636  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.642  4667  7240 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 949us total 6.419ms
+08-27 18:52:44.642  4667  7240 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.642  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.642  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.642  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.680  4667  7240 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.680  4667  7240 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 720us total 37.484ms
+08-27 18:52:44.680  4667  7240 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.680  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.680  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.680  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.732  4667  7240 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.732  4667  7240 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 768us total 51.612ms
+08-27 18:52:44.732  4667  7240 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:44.732  4667  7240 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.732  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.733  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.733  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.784  4667  7240 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.784  4667  7240 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 858us total 51.702ms
+08-27 18:52:44.785  4667  7240 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM" (recursive case)
+08-27 18:52:44.785  4667  5139 I art     : WaitForGcToComplete blocked for 812.489ms for cause Alloc
+08-27 18:52:44.785  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.785  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.785  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.785  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.785  4667  7240 W art     : "Timer-16" prio=5 tid=74 Runnable
+08-27 18:52:44.785  4667  7240 W art     :   | group="main" sCount=0 dsCount=0 obj=0x32c179d0 self=0x7f7d647c00
+08-27 18:52:44.785  4667  7240 W art     :   | sysTid=7240 nice=0 cgrp=default sched=0/0 handle=0x7f7dcc4450
+08-27 18:52:44.785  4667  7240 W art     :   | state=R schedstat=( 320848490 4462245 72 ) utm=31 stm=1 core=7 HZ=100
+08-27 18:52:44.785  4667  7240 W art     :   | stack=0x7f7dbc2000-0x7f7dbc4000 stackSize=1037KB
+08-27 18:52:44.785  4667  7240 W art     :   | held mutexes= "mutator lock"(shared held)
+08-27 18:52:44.785  4667  7240 W art     :   at glance.ui.sdk.carousel.CarouselLayout$SwipeTask.run(CarouselLayout.java:242)
+08-27 18:52:44.785  4667  7240 W art     :   at java.util.TimerThread.mainLoop(Timer.java:555)
+08-27 18:52:44.785  4667  7240 W art     :   at java.util.TimerThread.run(Timer.java:505)
+08-27 18:52:44.785  4667  7240 W art     : 
+08-27 18:52:44.785  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.791  4667  5139 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 672us total 6.353ms
+08-27 18:52:44.791  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.792  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.792  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.792  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.830  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.830  4667  5139 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 699us total 37.953ms
+08-27 18:52:44.830  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.830  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.830  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.830  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.881  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.881  4667  5139 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 998us total 51.041ms
+08-27 18:52:44.881  4667  5139 I art     : Forcing collection of SoftReferences for 43B allocation
+08-27 18:52:44.881  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.882  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.882  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.882  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.932  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.932  4667  5139 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 749us total 50.572ms
+08-27 18:52:44.933  4667  5139 W art     : Throwing OutOfMemoryError "Failed to allocate a 43 byte allocation with 0 free bytes and -2MB until OOM"
+08-27 18:52:44.933  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.933  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.933  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.933  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.933  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.939  4667  5139 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 920us total 6.624ms
+08-27 18:52:44.940  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.940  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.940  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.940  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.978  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:44.978  4667  5139 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 927us total 38.097ms
+08-27 18:52:44.978  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:44.978  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.978  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:44.979  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.029  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:45.029  4667  5139 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 1.042ms total 50.778ms
+08-27 18:52:45.029  4667  5139 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:45.030  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.030  4667  4676 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.030  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.030  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.081  4667  5139 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:45.081  4667  5139 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 831us total 50.940ms
+08-27 18:52:45.081  4667  5139 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM" (recursive case)
+08-27 18:52:45.081  4667  4676 I art     : WaitForGcToComplete blocked for 977.202ms for cause Alloc
+08-27 18:52:45.081  4667  4676 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.081  4667  4676 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.081  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.082  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.123  4667  5139 W art     : "Picasso-/glance-dev/public/gamecenter/assets/THOR Game/banner/Thor_Game_marvel_.jpg" prio=5 tid=42 Runnable
+08-27 18:52:45.123  4667  5139 W art     :   | group="main" sCount=0 dsCount=0 obj=0x32c0eca0 self=0x7f89d8a200
+08-27 18:52:45.123  4667  5139 W art     :   | sysTid=5139 nice=10 cgrp=default sched=0/0 handle=0x7f826ec450
+08-27 18:52:45.123  4667  5139 W art     :   | state=R schedstat=( 2612558187 86621680 769 ) utm=237 stm=24 core=4 HZ=100
+08-27 18:52:45.123  4667  5139 W art     :   | stack=0x7f825ea000-0x7f825ec000 stackSize=1037KB
+08-27 18:52:45.123  4667  5139 W art     :   | held mutexes= "mutator lock"(shared held)
+08-27 18:52:45.123  4667  5139 W art     :   native: #00 pc 000000000022d0c4  /system/lib64/libart.so (???)
+08-27 18:52:45.123  4667  5139 W art     :   native: #01 pc 000000000022d0c0  /system/lib64/libart.so (???)
+08-27 18:52:45.123  4667  5139 W art     :   native: #02 pc 0000000000200e14  /system/lib64/libart.so (???)
+08-27 18:52:45.123  4667  5139 W art     :   native: #03 pc 00000000001fe884  /system/lib64/libart.so (???)
+08-27 18:52:45.123  4667  5139 W art     :   native: #04 pc 00000000000a88a0  /system/lib64/libart.so (???)
+08-27 18:52:45.123  4667  5139 W art     :   native: #05 pc 00000000000b2920  /system/lib64/libart.so (???)
+08-27 18:52:45.123  4667  5139 W art     :   native: #06 pc 0000000000122074  /system/lib64/libart.so (_ZN3art6mirror5Class11AllocObjectEPNS_6ThreadE+2392)
+08-27 18:52:45.123  4667  5139 W art     :   native: #07 pc 0000000000209588  /system/lib64/libart.so (???)
+08-27 18:52:45.123  4667  5139 W art     :   native: #08 pc 00000000001fe8d4  /system/lib64/libart.so (???)
+08-27 18:52:45.123  4667  5139 W art     :   native: #09 pc 00000000000a88a0  /system/lib64/libart.so (???)
+08-27 18:52:45.123  4667  5139 W art     :   native: #10 pc 00000000000b2920  /system/lib64/libart.so (???)
+08-27 18:52:45.123  4667  5139 W art     :   native: #11 pc 0000000000122074  /system/lib64/libart.so (_ZN3art6mirror5Class11AllocObjectEPNS_6ThreadE+2392)
+08-27 18:52:45.123  4667  5139 W art     :   native: #12 pc 00000000000dc8ac  /system/lib64/libart.so (???)
+08-27 18:52:45.123  4667  5139 W art     :   native: #13 pc 00000000000f5d38  /system/lib64/libart.so (_ZN3art8CheckJNI10NewObjectVEP7_JNIEnvP7_jclassP10_jmethodIDSt9__va_list+792)
+08-27 18:52:45.123  4667  5139 W art     :   native: #14 pc 00000000000a6950  /system/lib64/libandroid_runtime.so (???)
+08-27 18:52:45.123  4667  5139 W art     :   native: #15 pc 00000000001117e8  /system/lib64/libandroid_runtime.so (_ZN11GraphicsJNI12createBitmapEP7_JNIEnvPN7android6BitmapEiP11_jbyteArrayP8_jobjecti+184)
+08-27 18:52:45.123  4667  5139 W art     :   native: #16 pc 000000000010e574  /system/lib64/libandroid_runtime.so (???)
+08-27 18:52:45.124  4667  5139 W art     :   native: #17 pc 00000000004234cc  /system/framework/arm64/boot-framework.oat (Java_android_graphics_BitmapFactory_nativeDecodeStream__Ljava_io_InputStream_2_3BLandroid_graphics_Rect_2Landroid_graphics_BitmapFactory_00024Options_2+232)
+08-27 18:52:45.124  4667  5139 W art     :   at android.graphics.BitmapFactory.nativeDecodeStream(Native method)
+08-27 18:52:45.124  4667  5139 W art     :   at android.graphics.BitmapFactory.decodeStreamInternal(BitmapFactory.java:650)
+08-27 18:52:45.124  4667  5139 W art     :   at android.graphics.BitmapFactory.decodeStream(BitmapFactory.java:626)
+08-27 18:52:45.124  4667  5139 W art     :   at com.squareup.picasso.BitmapHunter.decodeStream(BitmapHunter.java:142)
+08-27 18:52:45.124  4667  5139 W art     :   at com.squareup.picasso.BitmapHunter.hunt(BitmapHunter.java:217)
+08-27 18:52:45.124  4667  5139 W art     :   at com.squareup.picasso.BitmapHunter.run(BitmapHunter.java:159)
+08-27 18:52:45.124  4667  5139 W art     :   at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:428)
+08-27 18:52:45.124  4667  5139 W art     :   at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+08-27 18:52:45.124  4667  5139 W art     :   at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+08-27 18:52:45.124  4667  5139 W art     :   at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+08-27 18:52:45.124  4667  5139 W art     :   at java.lang.Thread.run(Thread.java:760)
+08-27 18:52:45.124  4667  5139 W art     :   at com.squareup.picasso.Utils$PicassoThread.run(Utils.java:411)
+08-27 18:52:45.124  4667  5139 W art     : 
+08-27 18:52:45.124  4667  5139 E GraphicsJNI: *** Uncaught exception returned from Java call!
+08-27 18:52:45.124  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.129  4667  4676 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 657us total 47.261ms
+08-27 18:52:45.129  4667  4676 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.129  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.129  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.129  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.167  4667  4676 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:45.167  4667  4676 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 723us total 37.589ms
+08-27 18:52:45.167  4667  4676 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.167  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.167  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.167  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.219  4667  4676 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:45.219  4667  4676 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 918us total 51.737ms
+08-27 18:52:45.219  4667  4676 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:45.219  4667  4676 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.220  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.220  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.220  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.270  4667  4676 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:45.271  4667  4676 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 871us total 50.784ms
+08-27 18:52:45.271  4667  4676 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM" (recursive case)
+08-27 18:52:45.271  4667  4966 I art     : WaitForGcToComplete blocked for 793.241ms for cause Alloc
+08-27 18:52:45.271  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.271  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.271  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.271  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.311  4667  4676 W art     : "ReferenceQueueDaemon" daemon prio=5 tid=5 Runnable
+08-27 18:52:45.311  4667  4676 W art     :   | group="system" sCount=0 dsCount=0 obj=0x32c0c280 self=0x7fa7646200
+08-27 18:52:45.311  4667  4676 W art     :   | sysTid=4676 nice=0 cgrp=default sched=0/0 handle=0x7fa6a0c450
+08-27 18:52:45.311  4667  4676 W art     :   | state=R schedstat=( 334344891 11335311 232 ) utm=32 stm=1 core=4 HZ=100
+08-27 18:52:45.311  4667  4676 W art     :   | stack=0x7fa690a000-0x7fa690c000 stackSize=1037KB
+08-27 18:52:45.311  4667  4676 W art     :   | held mutexes= "mutator lock"(shared held)
+08-27 18:52:45.311  4667  4676 W art     :   native: #00 pc 000000000022d0c4  /system/lib64/libart.so (???)
+08-27 18:52:45.311  4667  4676 W art     :   native: #01 pc 000000000022d0c0  /system/lib64/libart.so (???)
+08-27 18:52:45.311  4667  4676 W art     :   native: #02 pc 0000000000200e14  /system/lib64/libart.so (???)
+08-27 18:52:45.311  4667  4676 W art     :   native: #03 pc 00000000001fe884  /system/lib64/libart.so (???)
+08-27 18:52:45.311  4667  4676 W art     :   native: #04 pc 00000000000a88a0  /system/lib64/libart.so (???)
+08-27 18:52:45.311  4667  4676 W art     :   native: #05 pc 00000000000b2920  /system/lib64/libart.so (???)
+08-27 18:52:45.311  4667  4676 W art     :   native: #06 pc 0000000000122074  /system/lib64/libart.so (_ZN3art6mirror5Class11AllocObjectEPNS_6ThreadE+2392)
+08-27 18:52:45.311  4667  4676 W art     :   native: #07 pc 0000000000209588  /system/lib64/libart.so (???)
+08-27 18:52:45.311  4667  4676 W art     :   native: #08 pc 00000000001fe8d4  /system/lib64/libart.so (???)
+08-27 18:52:45.311  4667  4676 W art     :   native: #09 pc 00000000000a88a0  /system/lib64/libart.so (???)
+08-27 18:52:45.311  4667  4676 W art     :   native: #10 pc 00000000000b2920  /system/lib64/libart.so (???)
+08-27 18:52:45.311  4667  4676 W art     :   native: #11 pc 0000000000122074  /system/lib64/libart.so (_ZN3art6mirror5Class11AllocObjectEPNS_6ThreadE+2392)
+08-27 18:52:45.312  4667  4676 W art     :   native: #12 pc 0000000000209588  /system/lib64/libart.so (???)
+08-27 18:52:45.312  4667  4676 W art     :   native: #13 pc 000000000012bb70  /system/lib64/libart.so (???)
+08-27 18:52:45.312  4667  4676 W art     :   native: #14 pc 0000000000000810  /system/framework/arm64/boot.oat (Java_java_lang_Object_wait__+124)
+08-27 18:52:45.312  4667  4676 W art     :   at java.lang.Object.wait!(Native method)
+08-27 18:52:45.312  4667  4676 W art     :   at java.lang.Daemons$ReferenceQueueDaemon.run(Daemons.java:152)
+08-27 18:52:45.312  4667  4676 W art     :   at java.lang.Thread.run(Thread.java:760)
+08-27 18:52:45.312  4667  4676 W art     : 
+08-27 18:52:45.312  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.317  4667  4966 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 678us total 45.801ms
+08-27 18:52:45.317  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.317  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.317  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.317  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.355  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:45.355  4667  4966 I art     : Alloc partial concurrent mark sweep GC freed 4(168B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 913us total 37.473ms
+08-27 18:52:45.355  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.355  4667  4678 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.355  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.355  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.406  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:45.406  4667  4966 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 911us total 50.924ms
+08-27 18:52:45.406  4667  4966 I art     : Forcing collection of SoftReferences for 12B allocation
+08-27 18:52:45.406  4667  4678 I art     : WaitForGcToComplete blocked for 94.242ms for cause Alloc
+08-27 18:52:45.406  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.406  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.407  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.407  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.407  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.414  4667  4678 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 1.126ms total 6.982ms
+08-27 18:52:45.414  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.414  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.414  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.414  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.451  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:45.452  4667  4678 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 704us total 37.484ms
+08-27 18:52:45.452  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.452  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.452  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.452  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.503  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:45.503  4667  4678 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 755us total 50.702ms
+08-27 18:52:45.503  4667  4678 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:45.503  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.503  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.503  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.503  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.555  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:45.555  4667  4678 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 1.035ms total 51.168ms
+08-27 18:52:45.555  4667  4678 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM"
+08-27 18:52:45.555  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.555  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.555  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.555  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.555  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.561  4667  4678 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 683us total 6.048ms
+08-27 18:52:45.561  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.561  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.562  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.562  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.599  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:45.599  4667  4678 I art     : Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 711us total 37.676ms
+08-27 18:52:45.599  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.600  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.600  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.600  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.651  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+09-26 06:00:50.196  4667  4667 D AndroidRuntime: Shutting down VM
+09-26 06:00:50.202  4667  4667 E AndroidRuntime: FATAL EXCEPTION: main
+09-26 06:00:50.202  4667  4667 E AndroidRuntime: Process: com.miui.android.fashiongallery, PID: 4667
+09-26 06:00:50.202  4667  4667 E AndroidRuntime: java.lang.IllegalStateException: Can not perform this action after onSaveInstanceState
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.v4.app.FragmentManagerImpl.checkStateLoss(Unknown Source:10)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.v4.app.FragmentManagerImpl.enqueueAction(Unknown Source:2)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.v4.app.BackStackRecord.a(Unknown Source:78)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.v4.app.BackStackRecord.commit(Unknown Source:1)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at glance.ui.sdk.activity.GlanceHomeActivity.showBingeContainer(Unknown Source:19)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at glance.ui.sdk.activity.GlanceHomeActivity.e(Unknown Source:0)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at glance.ui.sdk.activity.GlanceHomeActivity$3.onTabSelected(Unknown Source:30)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.design.widget.TabLayout.dispatchTabSelected(Unknown Source:19)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.design.widget.TabLayout.a(Unknown Source:55)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.design.widget.TabLayout.a(Unknown Source:1)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.design.widget.TabLayout$Tab.select(Unknown Source:14)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.design.widget.TabLayout$TabView.performClick(Unknown Source:16)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.view.View.performClickInternal(View.java:6585)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.view.View.access$3100(View.java:785)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.view.View$PerformClick.run(View.java:25921)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.os.Handler.handleCallback(Handler.java:873)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:99)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:201)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:6810)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:547)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:873)
+08-27 18:52:45.651  4667  4678 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 987us total 51.086ms
+08-27 18:52:45.651  4667  4678 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:45.651  4667  4678 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.651  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.651  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.651  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.702  4667  4678 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:45.702  4667  4678 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 755us total 50.755ms
+08-27 18:52:45.702  4667  4678 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM" (recursive case)
+08-27 18:52:45.703  4667  4966 I art     : WaitForGcToComplete blocked for 295.954ms for cause Alloc
+08-27 18:52:45.703  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.703  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.703  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.742  4667  4678 W art     : "FinalizerDaemon" daemon prio=5 tid=6 Runnable
+08-27 18:52:45.742  4667  4678 W art     :   | group="system" sCount=0 dsCount=0 obj=0x32c0c310 self=0x7fa76c5200
+08-27 18:52:45.742  4667  4678 W art     :   | sysTid=4678 nice=0 cgrp=default sched=0/0 handle=0x7fa6907450
+08-27 18:52:45.742  4667  4678 W art     :   | state=R schedstat=( 1042905457 25091152 496 ) utm=96 stm=8 core=4 HZ=100
+08-27 18:52:45.743  4667  4678 W art     :   | stack=0x7fa6805000-0x7fa6807000 stackSize=1037KB
+08-27 18:52:45.743  4667  4678 W art     :   | held mutexes= "mutator lock"(shared held)
+08-27 18:52:45.743  4667  4678 W art     :   native: #00 pc 000000000022d0c4  /system/lib64/libart.so (???)
+08-27 18:52:45.743  4667  4678 W art     :   native: #01 pc 000000000022d0c0  /system/lib64/libart.so (???)
+08-27 18:52:45.743  4667  4678 W art     :   native: #02 pc 0000000000200e14  /system/lib64/libart.so (???)
+08-27 18:52:45.743  4667  4678 W art     :   native: #03 pc 00000000001fe884  /system/lib64/libart.so (???)
+08-27 18:52:45.743  4667  4678 W art     :   native: #04 pc 00000000000a88a0  /system/lib64/libart.so (???)
+08-27 18:52:45.743  4667  4678 W art     :   native: #05 pc 00000000000b2920  /system/lib64/libart.so (???)
+08-27 18:52:45.743  4667  4678 W art     :   native: #06 pc 0000000000122074  /system/lib64/libart.so (_ZN3art6mirror5Class11AllocObjectEPNS_6ThreadE+2392)
+08-27 18:52:45.743  4667  4678 W art     :   native: #07 pc 0000000000209588  /system/lib64/libart.so (???)
+08-27 18:52:45.743  4667  4678 W art     :   native: #08 pc 00000000001fe8d4  /system/lib64/libart.so (???)
+08-27 18:52:45.743  4667  4678 W art     :   native: #09 pc 00000000000a88a0  /system/lib64/libart.so (???)
+08-27 18:52:45.743  4667  4678 W art     :   native: #10 pc 00000000000b2920  /system/lib64/libart.so (???)
+08-27 18:52:45.743  4667  4678 W art     :   native: #11 pc 0000000000122074  /system/lib64/libart.so (_ZN3art6mirror5Class11AllocObjectEPNS_6ThreadE+2392)
+08-27 18:52:45.743  4667  4678 W art     :   native: #12 pc 0000000000209588  /system/lib64/libart.so (???)
+08-27 18:52:45.743  4667  4678 W art     :   native: #13 pc 000000000012bb70  /system/lib64/libart.so (???)
+08-27 18:52:45.743  4667  4678 W art     :   native: #14 pc 0000000000000980  /system/framework/arm64/boot.oat (Java_java_lang_Object_wait__JI+140)
+08-27 18:52:45.743  4667  4678 W art     :   at java.lang.Object.wait!(Native method)
+08-27 18:52:45.743  4667  4678 W art     :   at java.lang.Object.wait(Object.java:407)
+08-27 18:52:45.743  4667  4678 W art     :   at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:188)
+08-27 18:52:45.743  4667  4678 W art     :   at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:209)
+08-27 18:52:45.743  4667  4678 W art     :   at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:206)
+08-27 18:52:45.743  4667  4678 W art     :   at java.lang.Thread.run(Thread.java:760)
+08-27 18:52:45.743  4667  4678 W art     : 
+08-27 18:52:45.743  4667  4679 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.792  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:45.793  4667  4966 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 784us total 89.622ms
+08-27 18:52:45.793  4667  4966 W art     : Throwing OutOfMemoryError "Failed to allocate a 12 byte allocation with 0 free bytes and -2MB until OOM"
+08-27 18:52:45.793  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.793  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.793  4667  4679 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.793  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.793  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.799  4667  4966 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 643us total 6.138ms
+08-27 18:52:45.799  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.799  4667  4679 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.800  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.800  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.838  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:45.838  4667  4966 I art     : Alloc partial concurrent mark sweep GC freed 7(304B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 691us total 38.211ms
+08-27 18:52:45.838  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.838  4667  4679 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.838  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.838  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.889  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:45.890  4667  4966 I art     : Alloc concurrent mark sweep GC freed 24(784B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 954us total 51.066ms
+08-27 18:52:45.890  4667  4966 I art     : Forcing collection of SoftReferences for 28B allocation
+08-27 18:52:45.890  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.890  4667  4679 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.890  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.890  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.941  4667  4966 I art     : Clamp target GC heap from 210MB to 194MB
+08-27 18:52:45.941  4667  4966 I art     : Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 730us total 50.828ms
+08-27 18:52:45.941  4667  4966 W art     : Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 0 free bytes and -2MB until OOM" (recursive case)
+08-27 18:52:45.941  4667  4679 I art     : WaitForGcToComplete blocked for 197.831ms for cause Alloc
+08-27 18:52:45.941  4667  4679 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.941  4667  4679 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.941  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.941  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.942  4667  4966 W art     : "Picasso-/glance-dev/public/gamecenter/assets/Dunk shot/banner/Dunk_Shot_04.jpg" prio=5 tid=22 Runnable
+08-27 18:52:45.942  4667  4966 W art     :   | group="main" sCount=0 dsCount=0 obj=0x32c0eb80 self=0x7f89cece00
+08-27 18:52:45.942  4667  4966 W art     :   | sysTid=4966 nice=10 cgrp=default sched=0/0 handle=0x7f88f57450
+08-27 18:52:45.942  4667  4966 W art     :   | state=R schedstat=( 3632297917 67059224 931 ) utm=331 stm=32 core=4 HZ=100
+08-27 18:52:45.942  4667  4966 W art     :   | stack=0x7f88e55000-0x7f88e57000 stackSize=1037KB
+08-27 18:52:45.942  4667  4966 W art     :   | held mutexes= "mutator lock"(shared held)
+08-27 18:52:45.942  4667  4966 W art     :   at java.lang.Throwable.printStackTrace(Throwable.java:635)
+08-27 18:52:45.942  4667  4966 W art     :   at java.lang.Throwable.printStackTrace(Throwable.java:626)
+08-27 18:52:45.942  4667  4966 W art     :   at android.graphics.BitmapFactory.nativeDecodeStream(Native method)
+08-27 18:52:45.942  4667  4966 W art     :   at android.graphics.BitmapFactory.decodeStreamInternal(BitmapFactory.java:650)
+08-27 18:52:45.942  4667  4966 W art     :   at android.graphics.BitmapFactory.decodeStream(BitmapFactory.java:626)
+08-27 18:52:45.942  4667  4966 W art     :   at com.squareup.picasso.BitmapHunter.decodeStream(BitmapHunter.java:142)
+08-27 18:52:45.942  4667  4966 W art     :   at com.squareup.picasso.BitmapHunter.hunt(BitmapHunter.java:217)
+08-27 18:52:45.942  4667  4966 W art     :   at com.squareup.picasso.BitmapHunter.run(BitmapHunter.java:159)
+08-27 18:52:45.942  4667  4966 W art     :   at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:428)
+08-27 18:52:45.942  4667  4966 W art     :   at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+08-27 18:52:45.942  4667  4966 W art     :   at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+08-27 18:52:45.942  4667  4966 W art     :   at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+08-27 18:52:45.942  4667  4966 W art     :   at java.lang.Thread.run(Thread.java:760)
+08-27 18:52:45.942  4667  4966 W art     :   at com.squareup.picasso.Utils$PicassoThread.run(Utils.java:411)
+08-27 18:52:45.942  4667  4966 W art     : 
+08-27 18:52:45.942  4667  4966 W art     : JNI WARNING: java.lang.OutOfMemoryError thrown while calling printStackTrace
+08-27 18:52:45.942  4667  4966 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.948  4667  4679 I art     : Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 194MB/194MB, paused 837us total 6.486ms
+08-27 18:52:45.948  4667  4679 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.948  4667  7240 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.948  4667  5139 I art     : Waiting for a blocking GC Alloc
+08-27 18:52:45.948  4667  4966 I art     : Waiting for a blocking GC Alloc
+09-26 06:00:50.196  4667  4667 D AndroidRuntime: Shutting down VM
+09-26 06:00:50.202  4667  4667 E AndroidRuntime: FATAL EXCEPTION: main
+09-26 06:00:50.202  4667  4667 E AndroidRuntime: Process: com.miui.android.fashiongallery, PID: 4667
+09-26 06:00:50.202  4667  4667 E AndroidRuntime: java.lang.IllegalStateException: Can not perform this action after onSaveInstanceState
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.v4.app.FragmentManagerImpl.checkStateLoss(Unknown Source:10)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.v4.app.FragmentManagerImpl.enqueueAction(Unknown Source:2)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.v4.app.BackStackRecord.a(Unknown Source:78)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.v4.app.BackStackRecord.commit(Unknown Source:1)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at glance.ui.sdk.activity.GlanceHomeActivity.showBingeContainer(Unknown Source:19)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at glance.ui.sdk.activity.GlanceHomeActivity.e(Unknown Source:0)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at glance.ui.sdk.activity.GlanceHomeActivity$3.onTabSelected(Unknown Source:30)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.design.widget.TabLayout.dispatchTabSelected(Unknown Source:19)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.design.widget.TabLayout.a(Unknown Source:55)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.design.widget.TabLayout.a(Unknown Source:1)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.design.widget.TabLayout$Tab.select(Unknown Source:14)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.support.design.widget.TabLayout$TabView.performClick(Unknown Source:16)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.view.View.performClickInternal(View.java:6585)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.view.View.access$3100(View.java:785)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.view.View$PerformClick.run(View.java:25921)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.os.Handler.handleCallback(Handler.java:873)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:99)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:201)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:6810)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:547)
+09-26 06:00:50.202  4667  4667 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:873)
+08-27 18:52:45.992  4667  4679 I art     : Clamp target GC heap from 195MB to 192MB
+08-27 18:52:45.992  4667  4679 I art     : Alloc partial concurrent mark sweep GC freed 3(8KB) AllocSpace objects, 2(14MB) LOS objects, 6% free, 179MB/192MB, paused 989us total 43.790ms
+08-27 18:52:45.993  4667  7240 I art     : WaitForGcToComplete blocked for 1.207s for cause Alloc
+08-27 18:52:45.993  4667  7240 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.993  4667  5139 I art     : WaitForGcToComplete blocked for 868.932ms for cause Alloc
+08-27 18:52:45.993  4667  5139 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.993  4667  4966 I art     : WaitForGcToComplete blocked for 51.159ms for cause Alloc
+08-27 18:52:45.993  4667  4966 I art     : Starting a blocking GC Alloc
+08-27 18:52:45.994  4667  7240 E AndroidRuntime: FATAL EXCEPTION: Timer-16
+08-27 18:52:45.994  4667  7240 E AndroidRuntime: Process: com.miui.android.fashiongallery, PID: 4667
+08-27 18:52:45.994  4667  7240 E AndroidRuntime: java.lang.OutOfMemoryError: OutOfMemoryError thrown while trying to throw OutOfMemoryError; no stack trace available
+08-27 18:52:45.994  4667  5139 W System.err: java.lang.OutOfMemoryError: OutOfMemoryError thrown while trying to throw OutOfMemoryError; no stack trace available
+08-27 18:52:46.304  4667  5792 I EventManager: add event: name=mistat_app_exception
+08-27 18:52:46.306  4667  4729 I DBExecutor: acquire lock for db
+08-27 18:52:46.325  4667  4729 I DBExecutor: release lock for db
+08-27 18:52:46.325  4667  4729 I DBExecutor: acquire lock for db
+08-27 18:52:46.326  4667  4729 I DBExecutor: release lock for db
+08-27 18:52:46.326  4667  4747 D MI_STAT : UploadTimer resetBackgroundInterval: 15000
+08-27 18:52:46.326  4667  4747 D MI_STAT : UploadTimer checkDatabase mIsDatabaseEmpty=false
+08-27 18:52:54.435  1566  1576 I ActivityManager: Killing 4667:com.miui.android.fashiongallery/u0a178 (adj 900): crash
+08-27 18:52:54.663  1566  1583 E libprocessgroup: failed to kill 1 processes for processgroup 4667
+08-27 18:26:28.211  1566  3852 I notification_visibility: [0|com.xiaomi.mipicks|0|auto_update_success|10091,0,326883044,121546674,0,1]
+08-27 18:30:40.370  1566  3846 I am_proc_start: [0,4667,10178,com.miui.android.fashiongallery,content provider,com.miui.android.fashiongallery/.LockScreenMagazineProvider]
+08-27 18:30:40.405  1566  2332 I am_proc_bound: [0,4667,com.miui.android.fashiongallery]
+08-27 18:30:40.837  1566  3846 I am_restart_activity: [4667,254735223,310,com.miui.android.fashiongallery/.glance.GlanceActivity]
+08-27 18:30:41.079  4667  4667 I am_on_resume_called: [0,com.miui.android.fashiongallery.glance.GlanceActivity,LAUNCH_ACTIVITY]
+08-27 18:30:41.261  1566  1587 I [30088] : [0,254735223,com.miui.android.fashiongallery/.glance.GlanceActivity,434,434,4667]
+08-27 18:30:42.562  4667  4667 I auditd  : type=1400 audit(0.0:14834): avc: denied { setattr } for comm=".fashiongallery" name="data" dev="dm-1" ino=466945 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:system_data_file:s0 tclass=dir permissive=0
+08-27 18:30:42.562  4667  4667 I auditd  : type=1400 audit(0.0:14835): avc: denied { setattr } for comm=".fashiongallery" name="data" dev="dm-1" ino=466945 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:system_data_file:s0 tclass=dir permissive=0
+08-27 18:30:42.562  4667  4667 I auditd  : type=1400 audit(0.0:14836): avc: denied { setattr } for comm=".fashiongallery" name="user" dev="dm-1" ino=2097153 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:system_data_file:s0 tclass=dir permissive=0
+08-27 18:30:42.562  4667  4667 I auditd  : type=1400 audit(0.0:14837): avc: denied { setattr } for comm=".fashiongallery" name="user" dev="dm-1" ino=2097153 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:system_data_file:s0 tclass=dir permissive=0
+08-27 18:30:42.562  4667  4667 I auditd  : type=1400 audit(0.0:14838): avc: denied { setattr } for comm=".fashiongallery" name="/" dev="dm-1" ino=2 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:system_data_file:s0 tclass=dir permissive=0
+08-27 18:30:42.562  4667  4667 I auditd  : type=1400 audit(0.0:14839): avc: denied { setattr } for comm=".fashiongallery" name="/" dev="dm-1" ino=2 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:system_data_file:s0 tclass=dir permissive=0
+08-27 18:30:42.702  4667  4667 I auditd  : type=1400 audit(0.0:14840): avc: denied { setattr } for comm=".fashiongallery" name="data" dev="dm-1" ino=466945 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:system_data_file:s0 tclass=dir permissive=0
+08-27 18:30:42.702  4667  4667 I auditd  : type=1400 audit(0.0:14841): avc: denied { setattr } for comm=".fashiongallery" name="data" dev="dm-1" ino=466945 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:system_data_file:s0 tclass=dir permissive=0
+08-27 18:30:42.702  4667  4667 I auditd  : type=1400 audit(0.0:14842): avc: denied { setattr } for comm=".fashiongallery" name="user" dev="dm-1" ino=2097153 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:system_data_file:s0 tclass=dir permissive=0
+08-27 18:30:42.702  4667  4667 I auditd  : type=1400 audit(0.0:14843): avc: denied { setattr } for comm=".fashiongallery" name="user" dev="dm-1" ino=2097153 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:system_data_file:s0 tclass=dir permissive=0
+08-27 18:30:42.702  4667  4667 I auditd  : type=1400 audit(0.0:14844): avc: denied { setattr } for comm=".fashiongallery" name="/" dev="dm-1" ino=2 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:system_data_file:s0 tclass=dir permissive=0
+08-27 18:30:42.702  4667  4667 I auditd  : type=1400 audit(0.0:14845): avc: denied { setattr } for comm=".fashiongallery" name="/" dev="dm-1" ino=2 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:system_data_file:s0 tclass=dir permissive=0
+08-27 18:30:42.954  1566  2129 I am_pause_activity: [4667,254735223,com.miui.android.fashiongallery/.glance.GlanceActivity]
+08-27 18:30:42.969  1566  2129 I am_finish_activity: [4667,254735223,310,com.miui.android.fashiongallery/.glance.GlanceActivity,app-request]
+08-27 18:30:42.970  4667  4667 I [30089] : 48
+08-27 18:30:42.982  4667  4667 I am_on_paused_called: [0,com.miui.android.fashiongallery.glance.GlanceActivity,handlePauseActivity]
+08-27 18:30:42.986  1566  2129 I am_restart_activity: [4667,47905289,310,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:30:43.256  4667  4667 I am_on_resume_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,LAUNCH_ACTIVITY]
+08-27 18:30:43.339  4667  4745 I dvm_lock_sample: [com.miui.android.fashiongallery,0,GlanceSdk-TaskPool-3,77,Object.java,-2,PG,2,15]
+08-27 18:30:43.946  4667  4667 I [30089] : 34
+08-27 18:30:44.108  1566  1587 I [30088] : [0,47905289,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity,1125,1125,4667]
+08-27 18:30:44.366  1566  1581 I am_destroy_activity: [4667,254735223,310,com.miui.android.fashiongallery/.glance.GlanceActivity,finish-imm]
+08-27 18:30:44.368  4667  4667 I am_on_stop_called: [0,com.miui.android.fashiongallery.glance.GlanceActivity,destroy]
+08-27 18:30:45.595  1566  1829 I am_finish_activity: [4667,47905289,310,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity,app-request]
+08-27 18:30:45.603  1566  1829 I am_pause_activity: [4667,47905289,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:30:45.676  4667  4667 I am_on_paused_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,handlePauseActivity]
+08-27 18:30:45.820  1566  1581 I am_destroy_activity: [4667,47905289,310,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity,finish-imm]
+08-27 18:30:46.022  4667  4667 I am_on_stop_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,destroy]
+08-27 18:30:56.197  4667  4746 I dvm_lock_sample: [com.miui.android.fashiongallery,0,GlanceSdk-TaskPool-4,1309,FetchConfigTask.java,121,SQLiteConnection.java,-2,100]
+08-27 18:31:21.493  1566  1580 I am_pss  : [4667,10178,com.miui.android.fashiongallery,88714240,75401216,185344]
+08-27 18:31:25.100  1566  1829 I am_restart_activity: [4667,237206067,311,com.miui.android.fashiongallery/.glance.GlanceActivity]
+08-27 18:31:25.121  1566  3851 I am_pause_activity: [4667,237206067,com.miui.android.fashiongallery/.glance.GlanceActivity]
+08-27 18:31:25.123  1566  3851 I am_finish_activity: [4667,237206067,311,com.miui.android.fashiongallery/.glance.GlanceActivity,app-request]
+08-27 18:31:25.131  1566  3851 I am_restart_activity: [4667,126977679,311,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:31:25.206  4667  4667 I am_on_resume_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,LAUNCH_ACTIVITY]
+08-27 18:31:25.734  4667  4667 I [30089] : 30
+08-27 18:31:25.820  1566  1587 I [30088] : [0,126977679,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity,690,733,4667]
+08-27 18:31:25.840  1566  3846 I am_destroy_activity: [4667,237206067,311,com.miui.android.fashiongallery/.glance.GlanceActivity,finish-imm]
+08-27 18:31:35.451  1566  1580 I am_pss  : [4667,10178,com.miui.android.fashiongallery,213672960,198739968,186368]
+08-27 18:32:00.236  1566  1829 I am_pause_activity: [4667,126977679,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:32:00.299  4667  4667 I am_on_paused_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,handlePauseActivity]
+08-27 18:32:00.306  1566  5747 I am_restart_activity: [4667,49015528,311,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity]
+08-27 18:32:00.618  4667  4667 I am_on_resume_called: [0,glance.ui.sdk.activity.GlanceGamePlayActivity,LAUNCH_ACTIVITY]
+08-27 18:32:00.971  1566  1587 I [30088] : [0,49015528,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity,669,669,4667]
+08-27 18:32:01.257  4667  4667 I am_on_stop_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,handleStopActivity]
+08-27 18:32:02.603  1566  1829 I am_finish_activity: [4667,49015528,311,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity,app-request]
+08-27 18:32:02.611  1566  1829 I am_pause_activity: [4667,49015528,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity]
+08-27 18:32:02.669  4667  4667 I am_on_paused_called: [0,glance.ui.sdk.activity.GlanceGamePlayActivity,handlePauseActivity]
+08-27 18:32:02.676  1566  1829 I am_resume_activity: [4667,126977679,311,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:32:02.710  4667  4667 I am_on_resume_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,RESUME_ACTIVITY]
+08-27 18:32:03.055  1566  1581 I am_destroy_activity: [4667,49015528,311,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity,finish-imm]
+08-27 18:32:03.058  4667  4667 I am_on_stop_called: [0,glance.ui.sdk.activity.GlanceGamePlayActivity,destroy]
+08-27 18:33:36.662  1566  1580 I am_pss  : [4667,10178,com.miui.android.fashiongallery,252475392,236097536,181248]
+08-27 18:35:14.858  1566  1590 I am_pause_activity: [4667,126977679,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:35:14.862  4667  4667 I am_on_paused_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,handlePauseActivity]
+08-27 18:35:15.140  4667  4667 I am_on_stop_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,sleeping]
+08-27 18:35:16.577  1566  3846 I am_finish_activity: [4667,126977679,311,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity,app-request]
+08-27 18:35:16.603  1566  1581 I am_destroy_activity: [4667,126977679,311,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity,finish-imm]
+08-27 18:39:15.856  1566  1580 I am_pss  : [4667,10178,com.miui.android.fashiongallery,204907520,187332608,187392]
+08-27 18:50:25.283  1566  3846 I am_restart_activity: [4667,24252430,312,com.miui.android.fashiongallery/.glance.GlanceActivity]
+08-27 18:50:25.309  1566  2919 I am_pause_activity: [4667,24252430,com.miui.android.fashiongallery/.glance.GlanceActivity]
+08-27 18:50:25.314  1566  2919 I am_finish_activity: [4667,24252430,312,com.miui.android.fashiongallery/.glance.GlanceActivity,app-request]
+08-27 18:50:25.323  1566  2919 I am_restart_activity: [4667,155393818,312,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:50:25.427  4667  4667 I am_on_resume_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,LAUNCH_ACTIVITY]
+08-27 18:50:26.040  4667  4667 I [30089] : 34
+08-27 18:50:26.110  1566  1587 I [30088] : [0,155393818,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity,789,841,4667]
+08-27 18:50:26.118  1566  3846 I am_destroy_activity: [4667,24252430,312,com.miui.android.fashiongallery/.glance.GlanceActivity,finish-imm]
+08-27 18:50:36.862  1566  1580 I am_pss  : [4667,10178,com.miui.android.fashiongallery,222395392,206645248,181248]
+08-27 18:50:41.707  1566  1590 I am_pause_activity: [4667,155393818,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:50:41.710  4667  4667 I am_on_paused_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,handlePauseActivity]
+08-27 18:50:41.980  4667  4667 I am_on_stop_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,sleeping]
+08-27 18:50:42.187  1566  3854 I am_finish_activity: [4667,155393818,312,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity,app-request]
+08-27 18:50:42.209  1566  1581 I am_destroy_activity: [4667,155393818,312,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity,finish-imm]
+08-27 18:51:09.570  1566  2943 I am_restart_activity: [4667,28872254,313,com.miui.android.fashiongallery/.glance.GlanceActivity]
+08-27 18:51:09.591  1566  2316 I am_pause_activity: [4667,28872254,com.miui.android.fashiongallery/.glance.GlanceActivity]
+08-27 18:51:09.596  1566  2316 I am_finish_activity: [4667,28872254,313,com.miui.android.fashiongallery/.glance.GlanceActivity,app-request]
+08-27 18:51:09.603  1566  2316 I am_restart_activity: [4667,239110360,313,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:51:09.669  4667  4667 I am_on_resume_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,LAUNCH_ACTIVITY]
+08-27 18:51:10.097  1566  1587 I [30088] : [0,239110360,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity,496,540,4667]
+08-27 18:51:10.104  1566  2103 I am_destroy_activity: [4667,28872254,313,com.miui.android.fashiongallery/.glance.GlanceActivity,finish-imm]
+08-27 18:51:19.872  1566  1580 I am_pss  : [4667,10178,com.miui.android.fashiongallery,233938944,217249792,187392]
+08-27 18:51:24.317  1566  7994 I am_pause_activity: [4667,239110360,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:51:24.318  4667  4667 I am_on_paused_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,handlePauseActivity]
+08-27 18:51:24.758  1566  1576 I am_finish_activity: [4667,239110360,313,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity,app-request]
+08-27 18:51:24.759  1566  1576 I am_destroy_activity: [4667,239110360,313,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity,finish-imm]
+08-27 18:51:24.780  4667  4667 I am_on_stop_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,destroy]
+08-27 18:51:33.733  1566  7991 I am_restart_activity: [4667,19759175,315,com.miui.android.fashiongallery/.glance.GlanceActivity]
+08-27 18:51:33.757  1566  7991 I am_pause_activity: [4667,19759175,com.miui.android.fashiongallery/.glance.GlanceActivity]
+08-27 18:51:33.760  1566  7991 I am_finish_activity: [4667,19759175,315,com.miui.android.fashiongallery/.glance.GlanceActivity,app-request]
+08-27 18:51:33.768  1566  7991 I am_restart_activity: [4667,12048867,315,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:51:33.855  4667  4667 I am_on_resume_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,LAUNCH_ACTIVITY]
+08-27 18:51:34.298  1566  1587 I [30088] : [0,12048867,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity,533,579,4667]
+08-27 18:51:34.305  1566  2916 I am_destroy_activity: [4667,19759175,315,com.miui.android.fashiongallery/.glance.GlanceActivity,finish-imm]
+08-27 18:51:39.852  1566  1829 I am_pause_activity: [4667,12048867,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:51:40.007  4667  4667 I am_on_paused_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,handlePauseActivity]
+08-27 18:51:40.012  1566  3852 I am_restart_activity: [4667,90800824,315,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity]
+08-27 18:51:40.102  4667  4667 I am_on_resume_called: [0,glance.ui.sdk.activity.GlanceGamePlayActivity,LAUNCH_ACTIVITY]
+08-27 18:51:40.187  1566  1587 I [30088] : [0,90800824,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity,178,178,4667]
+08-27 18:51:40.474  4667  4667 I am_on_stop_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,handleStopActivity]
+08-27 18:51:41.435  1566  2131 I am_finish_activity: [4667,90800824,315,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity,app-request]
+08-27 18:51:41.439  1566  2131 I am_pause_activity: [4667,90800824,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity]
+08-27 18:51:41.459  4667  4667 I am_on_paused_called: [0,glance.ui.sdk.activity.GlanceGamePlayActivity,handlePauseActivity]
+08-27 18:51:41.470  1566  2131 I am_resume_activity: [4667,12048867,315,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:51:41.505  4667  4667 I am_on_resume_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,RESUME_ACTIVITY]
+08-27 18:51:41.847  1566  1581 I am_destroy_activity: [4667,90800824,315,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity,finish-imm]
+08-27 18:51:41.850  4667  4667 I am_on_stop_called: [0,glance.ui.sdk.activity.GlanceGamePlayActivity,destroy]
+08-27 18:51:43.968  1566  1580 I am_pss  : [4667,10178,com.miui.android.fashiongallery,403900416,392263680,175104]
+08-27 18:52:01.723  1566  1829 I am_pause_activity: [4667,12048867,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:52:01.790  4667  4667 I am_on_paused_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,handlePauseActivity]
+08-27 18:52:01.796  1566  1829 I am_restart_activity: [4667,188362177,315,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity]
+08-27 18:52:01.859  4667  4667 I am_on_resume_called: [0,glance.ui.sdk.activity.GlanceGamePlayActivity,LAUNCH_ACTIVITY]
+08-27 18:52:01.944  1566  1587 I [30088] : [0,188362177,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity,152,152,4667]
+08-27 18:52:02.221  4667  4667 I am_on_stop_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,handleStopActivity]
+08-27 18:52:03.074  1566  1576 I am_finish_activity: [4667,188362177,315,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity,app-request]
+08-27 18:52:03.078  1566  1576 I am_pause_activity: [4667,188362177,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity]
+08-27 18:52:03.112  4667  4667 I am_on_paused_called: [0,glance.ui.sdk.activity.GlanceGamePlayActivity,handlePauseActivity]
+08-27 18:52:03.118  1566  1576 I am_resume_activity: [4667,12048867,315,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:52:03.157  4667  4667 I am_on_resume_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,RESUME_ACTIVITY]
+08-27 18:52:03.508  1566  1581 I am_destroy_activity: [4667,188362177,315,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity,finish-imm]
+08-27 18:52:03.511  4667  4667 I am_on_stop_called: [0,glance.ui.sdk.activity.GlanceGamePlayActivity,destroy]
+08-27 18:52:09.536  1566  3847 I am_pause_activity: [4667,12048867,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:52:09.590  4667  4667 I am_on_paused_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,handlePauseActivity]
+08-27 18:52:09.595  1566  3847 I am_restart_activity: [4667,1486185,315,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity]
+08-27 18:52:09.663  4667  4667 I am_on_resume_called: [0,glance.ui.sdk.activity.GlanceGamePlayActivity,LAUNCH_ACTIVITY]
+08-27 18:52:09.770  1566  1587 I [30088] : [0,1486185,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity,178,178,4667]
+08-27 18:52:10.039  4667  4667 I am_on_stop_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,handleStopActivity]
+08-27 18:52:10.652  1566  1576 I am_finish_activity: [4667,1486185,315,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity,app-request]
+08-27 18:52:10.657  1566  1576 I am_pause_activity: [4667,1486185,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity]
+08-27 18:52:10.699  4667  4667 I am_on_paused_called: [0,glance.ui.sdk.activity.GlanceGamePlayActivity,handlePauseActivity]
+08-27 18:52:10.705  1566  1576 I am_resume_activity: [4667,12048867,315,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:52:10.808  4667  4667 I am_on_resume_called: [0,glance.ui.sdk.activity.GlanceHomeActivity,RESUME_ACTIVITY]
+08-27 18:52:11.175  1566  1581 I am_destroy_activity: [4667,1486185,315,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceGamePlayActivity,finish-imm]
+08-27 18:52:11.178  4667  4667 I am_on_stop_called: [0,glance.ui.sdk.activity.GlanceGamePlayActivity,destroy]
+08-27 18:52:46.307  1566  1576 I am_crash: [4667,0,com.miui.android.fashiongallery,954744390,java.lang.OutOfMemoryError,OutOfMemoryError thrown while trying to throw OutOfMemoryError; no stack trace available,unknown,0]
+08-27 18:52:46.311  1566  1576 I am_finish_activity: [4667,12048867,315,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity,force-crash]
+08-27 18:52:46.319  1566  1576 I am_pause_activity: [4667,12048867,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity]
+08-27 18:52:46.946  1566  1581 I am_destroy_activity: [4667,12048867,315,com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity,finish-imm]
+08-27 18:52:54.435  1566  1576 I am_kill : [0,4667,com.miui.android.fashiongallery,900,crash]
+08-27 18:54:00.804  1566  1688 I netstats_wifi_sample: [614364731,467437,29802608,286542,614332793,466765,25782570,286271,613268019,458097,25905410,287085,1566912238281]
+08-25 11:04:16.277  2079  2321 D RILJ    : [4667]> RIL_REQUEST_GET_CELL_INFO_LIST [SUB1]
+08-25 11:04:16.283  2079  2224 D RilRequest: [4667]< RIL_REQUEST_GET_CELL_INFO_LIST error: com.android.internal.telephony.CommandException: SYSTEM_ERR ret=
+08-27 18:30:42.963  4667  4732 E TelephonyManager: getDeviceIdjava.lang.SecurityException: getDeviceId: Neither user 10178 nor current process has android.permission.READ_PHONE_STATE.
+ 4667/10178 com.miui.android.fashiongallery                 83647          1980
+  | state=S schedstat=( 54667921 123335464 232 ) utm=0 stm=5 core=1 HZ=100
+  | state=S schedstat=( 7452466725 11693641130 20882 ) utm=484 stm=261 core=2 HZ=100
+  node 3284667: u0000007f87a5c0e0 c0000007f843f6400 pri 0:247 hs 1 hw 1 ls 0 lw 0 is 1 iw 1 tr 1 proc 1566
+  node 3284667: u0000007f87a5c0e0 c0000007f843f6400 pri 0:247 hs 1 hw 1 ls 0 lw 0 is 1 iw 1 tr 1 proc 1566
+  ref 24667: desc 0 node 6 s 1 w 1 d 0000000000000000
+  ref 4667: desc 4 node 1112 s 1 w 1 d 0000000000000000
+  ref 3284668: desc 166 node 3284667 s 1 w 1 d 0000000000000000
+    Deliver #41: BroadcastFilter{91f0ad9 u0 ReceiverList{97d2120 4667 com.miui.android.fashiongallery/10178/u0 remote:85e1823}}
+    Deliver #49: BroadcastFilter{91f0ad9 u0 ReceiverList{97d2120 4667 com.miui.android.fashiongallery/10178/u0 remote:85e1823}}
+    Deliver #41: BroadcastFilter{91f0ad9 u0 ReceiverList{97d2120 4667 com.miui.android.fashiongallery/10178/u0 remote:85e1823}}
+    Deliver #49: BroadcastFilter{91f0ad9 u0 ReceiverList{97d2120 4667 com.miui.android.fashiongallery/10178/u0 remote:85e1823}}
+    Deliver #41: BroadcastFilter{91f0ad9 u0 ReceiverList{97d2120 4667 com.miui.android.fashiongallery/10178/u0 remote:85e1823}}
+    Deliver #49: BroadcastFilter{91f0ad9 u0 ReceiverList{97d2120 4667 com.miui.android.fashiongallery/10178/u0 remote:85e1823}}
+    Deliver #52: BroadcastFilter{c25027 u0 ReceiverList{6e412e6 4667 com.miui.android.fashiongallery/10178/u0 remote:e023d41}}
+    Deliver #53: BroadcastFilter{809a840 u0 ReceiverList{bf9c7c3 4667 com.miui.android.fashiongallery/10178/u0 remote:64e7772}}
+    Deliver #54: BroadcastFilter{4a71d1f u0 ReceiverList{78898be 4667 com.miui.android.fashiongallery/10178/u0 remote:ee05379}}
+    Deliver #41: BroadcastFilter{91f0ad9 u0 ReceiverList{97d2120 4667 com.miui.android.fashiongallery/10178/u0 remote:85e1823}}
+    Deliver #49: BroadcastFilter{91f0ad9 u0 ReceiverList{97d2120 4667 com.miui.android.fashiongallery/10178/u0 remote:85e1823}}
+    Deliver #41: BroadcastFilter{91f0ad9 u0 ReceiverList{97d2120 4667 com.miui.android.fashiongallery/10178/u0 remote:85e1823}}
+  PID 4667 wake time: +7s241ms
+  mInputBinding=InputBinding{android.os.BinderProxy@5a668c6 / uid 10178 / pid 4667}
+    rec[655]: 18:30:43 4667 10178  s*.com=52.*,
+    rec[656]: 18:30:43 4667 10178  s*.com=52.*,
+    rec[657]: 18:30:43 4667 10178  s*.com=52.*,
+    rec[658]: 18:30:43 4667 10178  s*.com=52.*,
+    rec[659]: 18:30:43 4667 10178  s*.com=52.*,
+    rec[660]: 18:30:44 4667 10178  d*.com=52.*,52.*,52.*,52.*,52.*,13.*,52.*,52.*,
+    rec[664]: 18:30:45 4667 10178  a*.com=13.*,52.*,13.*,13.*,35.*,13.*,13.*,13.*,
+    rec[669]: 18:30:54 4667 10178  i*.com=52.*,
+    rec[681]: 18:31:25 4667 10178  s*.com= <get addr info failed>
+    rec[715]: 18:31:52 4667 10178  s*.com= <get addr info failed>
+    rec[716]: 18:31:52 4667 10178  s*.com= <get addr info failed>
+    rec[717]: 18:31:52 4667 10178  s*.com= <get addr info failed>
+    rec[723]: 18:31:56 4667 10178  s*.com= <get addr info failed>
+    rec[728]: 18:32:00 4667 10178  s*.com= <get addr info failed>
+    rec[730]: 18:32:00 4667 10178  w*.com= <get addr info failed>
+    rec[731]: 18:32:01 4667 10178  d*.com= <get addr info failed>
+    rec[745]: 18:32:21 4667 10178  s*.com= <get addr info failed>
+    rec[747]: 18:32:24 4667 10178  s*.com= <get addr info failed>
+    rec[757]: 18:34:20 4667 10178  s*.com= <get addr info failed>
+    rec[769]: 18:34:55 4667 10178  s*.com= <get addr info failed>
+    rec[770]: 18:34:58 4667 10178  s*.com= <get addr info failed>
+    rec[772]: 18:35:04 4667 10178  s*.com= <get addr info failed>
+    rec[784]: 18:50:25 4667 10178  s*.com= <get addr info failed>
+    rec[789]: 18:51:09 4667 10178  s*.com= <get addr info failed>
+    rec[796]: 18:51:18 4667 10178  s*.com=52.*,
+    rec[802]: 18:51:18 4667 10178  s*.com=52.*,
+    rec[803]: 18:51:18 4667 10178  s*.com=52.*,
+    rec[804]: 18:51:18 4667 10178  s*.com=52.*,
+    rec[817]: 18:51:33 4667 10178  d*.com=13.*,13.*,13.*,13.*,13.*,13.*,13.*,13.*,
+    rec[819]: 18:51:37 4667 10178  s*.com=52.*,
+    rec[820]: 18:51:37 4667 10178  s*.com=52.*,
+    rec[821]: 18:51:37 4667 10178  s*.com=52.*,
+    rec[822]: 18:51:37 4667 10178  s*.com=52.*,
+    rec[826]: 18:51:40 4667 10178  p*.com=172.*,
+    rec[827]: 18:51:41 4667 10178  w*.com=216.*,
+    rec[828]: 18:51:41 4667 10178  l*.com=172.*,
+    rec[829]: 18:51:41 4667 10178  i*.com=172.*,172.*,172.*,216.*,172.*,172.*,172.*,172.*,216.*,216.*,172.*,
+    rec[830]: 18:51:41 4667 10178  s*.com=216.*,
+    rec[833]: 18:51:41 4667 10178  l*.com=216.*,
+    rec[835]: 18:51:42 4667 10178  a*.com=216.*,
+    rec[840]: 18:52:02 4667 10178  f*.com=172.*,
+    rec[841]: 18:52:02 4667 10178  c*.org=216.*,
+    rec[842]: 18:52:11 4667 10178  w*.com=172.*,
+    rec[843]: 18:52:11 4667 10178  s*.net=172.*,172.*,172.*,172.*,
+08-27 19:01:33.344 - RCV <- {613 IfaceClass idle wlan0 341946466753687}
+	27 (ts=342042.466734387, wall=19:03:09.852) 0.07, -0.69, 9.73, 
+ rec[687]: time=08-27 18:51:50.002 processed=L2ConnectedState org=ConnectedState dest=<null> what=131155(0x20053) !CMD_RSSI_POLL  rt=26946676/341363123 35 0 "InMobi-BYOD" 72:3a:1e:53:db:5d rssi=-59 f=2437 sc=60 link=72 tx=132.0, 0.0, 0.0  rx=213.0 bcn=0 [on:0 tx:0 rx:0 period:3017] from screen [on:0 period:-750953038] gl rssi=-59 ag=0 hr ticks 0,1,6 ls-=0 [56,56,60,60,65] brc=0 lrc=0 offload-stopped
+9,h,24667,+r,+w=194,wr=93
+9,0,l,pr,kworker/u16:6,0,46670,0,0,0,0
+pkgproc,com.google.android.gsf,10016,25,com.google.process.gapps,0nt:1187,0nf:24707,0nb:46436,0nw:798,0ns:14975,0nr:8403,0nl:2275324,0ne:4667278,1nt:786,1nf:6416,1nb:3606,1ns:5157,1nr:3431,1nl:431025,1ne:488064
+proc,com.google.android.instantapps.supervisor,10154,0ns:880,0nl:65903,0ne:466783,1ns:1386,1nl:20279,1ne:14498
+proc,com.google.process.gapps,10016,0nt:1187,0nf:24707,0nb:46436,0nw:798,0ns:14975,0nr:8403,0nl:2275324,0ne:4667278,1nt:786,1nf:6416,1nb:3606,1ns:5157,1nr:3431,1nl:431025,1ne:488064
+      mInputBinding=InputBinding{android.os.BinderProxy@5a668c6 / uid 10178 / pid 4667}
+    4667|com.miui.android.fashiongallery|168|95|unknown|null|com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity|26587000972304|Slow main thread|3
+    4667|com.miui.android.fashiongallery|158|158|unknown|null|com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity|26587559997564|Slow handle animation|1
+    4667|com.miui.android.fashiongallery|286|286|unknown|null|com.miui.android.fashiongallery/glance.ui.sdk.activity.GlanceHomeActivity|26587954344283|Slow main thread|1
