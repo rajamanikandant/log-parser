@@ -7,14 +7,17 @@ import java.nio.file.Paths;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.function.Function;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.toList;
 
 public class LogUtil {
-    private static final String filepath = "full.log";
+    private static final String filepath = "sample4667.log";
+//    private static final String filepath = "full.log";
 
 
     public static void parseLog(String procID, List<String> keywords) {
@@ -31,9 +34,13 @@ public class LogUtil {
         List<String> logs2;
         logs2 = filterBy(logsByProcID, "Fatal Exception");
         //Filter by Fatal Exception - Unique exception & count
+
+//        System.out.println("------------------");
+//        printFatalExceptions(logsByProcID);
+//        System.out.println("------------------");
+
         System.out.println("------------------");
-//        filterFatal(logsByProcID);
-        printFatalExceptions(logsByProcID);
+        printErrors(logsByProcID);
         System.out.println("------------------");
 //
 //        Map<String, Long> fatalExceptions = logs2.stream()
@@ -112,7 +119,7 @@ public class LogUtil {
                 stackTraces.append("#" + stCounter++ + ") " + trimmedStr + "\n");
 
                 // Get stack trace pattern
-                final String stackTracePattern = "([\\d-]+\\s+[\\d:\\.]+\\s+[\\d]+\\s+[\\d]+\\s+[A-Z]\\s+[\\w]+:)\\s+.+";
+                final String stackTracePattern = "([\\d-]+\\s+[\\d:\\.]+\\s+[\\d]+\\s+[\\d]+\\s+[A-Z]\\s+[\\w]+:)\\s*.+";
                 Pattern logPattern = Pattern.compile(stackTracePattern);
                 Matcher matcher = logPattern.matcher(exceptionStr);
                 matcher.matches();
@@ -135,6 +142,7 @@ public class LogUtil {
         System.out.println("#####");
         System.out.println("FATAL EXCEPTION(S)");
         System.out.println("------------------");
+        System.out.println("Exception Message| # of Occurrences");
         uniqueLogs.forEach((k,v) -> System.out.println(k + " | " + v));
         System.out.println();
         System.out.println();
@@ -142,6 +150,35 @@ public class LogUtil {
         System.out.println("Stacktrace:");
         System.out.println("-----------");
         System.out.println(stackTraces.toString());
+        System.out.println("#####");
+
+    }
+
+
+
+    private static void printErrors(List<String> log) {
+        final String logRegex = "[\\d-]+\\s+[\\d:\\.]+\\s+[\\d]+\\s+[\\d]+\\s+E\\s+[\\w]+\\s*:(?!\\s+at ).+";
+        final Pattern logPattern = Pattern.compile(logRegex);
+        final ClassLoader classLoader = ClassLoader.getSystemClassLoader();
+
+        List<String> filteredLines = log.stream()
+                .filter(logPattern.asPredicate())
+                .map(line -> trimLogLine(line))
+                .filter(line -> !line.trim().isEmpty())
+                .collect(toList());
+
+
+        System.out.println("#####");
+        System.out.println("Error(s)");
+        System.out.println("--------");
+        System.out.println("Error Message| # of Occurrences");
+        Map<String, Long> fatalExceptions = filteredLines.stream()
+                .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
+        fatalExceptions.forEach((k,v) -> System.out.println(k + " | " + v));
+
+        System.out.println();
+        System.out.println();
+
         System.out.println("#####");
 
     }
