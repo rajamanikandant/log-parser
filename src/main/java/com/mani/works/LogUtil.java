@@ -4,20 +4,17 @@ import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.function.Function;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.toList;
 
 public class LogUtil {
-    private static final String filepath = "sample4667.log";
+    private static final String filepath = "full.log";
 
 
     public static void parseLog(String procID, List<String> keywords) {
@@ -36,16 +33,16 @@ public class LogUtil {
         //Filter by Fatal Exception - Unique exception & count
         System.out.println("------------------");
 //        filterFatal(logsByProcID);
-        filterFatal(logsByProcID).forEach((k,v) -> System.out.println(k + " | " + v));
+        printFatalExceptions(logsByProcID);
         System.out.println("------------------");
-
-        Map<String, Long> fatalExceptions = logs2.stream()
-                .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
-        System.out.println("#####");
-        System.out.println("FATAL EXCEPTION(S)");
-        System.out.println("------------------");
-        fatalExceptions.forEach((k,v) -> System.out.println(k + " | " + v));
-        System.out.println("#####");
+//
+//        Map<String, Long> fatalExceptions = logs2.stream()
+//                .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
+//        System.out.println("#####");
+//        System.out.println("FATAL EXCEPTION(S)");
+//        System.out.println("------------------");
+//        fatalExceptions.forEach((k,v) -> System.out.println(k + " | " + v));
+//        System.out.println("#####");
             //Filter by Fatal Exception - Unique exception & stacktrace
         //Filter by Errors
             //Filter by Errors - Unique Errors & count
@@ -93,38 +90,60 @@ public class LogUtil {
     }
 
 
-    private static Map<String, Integer> filterFatal(List<String> log) {
+    private static void printFatalExceptions(List<String> log) {
         final String keyword = "FATAL EXCEPTION";
         List<String> filteredLines = log.stream()
                 .filter(line -> line.toUpperCase().contains(keyword))
                 .collect(toList());
 
-        List<String> uniqueLines = new ArrayList<>();
         Map<String, Integer> uniqueLogs = new HashMap<>();
+        StringBuilder stackTraces = new StringBuilder();
 
-        System.out.println(filteredLines.size());
-
-        filteredLines.forEach(line -> System.out.println(line));
+        int stCounter = 1;
         for (String line : filteredLines) {
             int index = log.indexOf(line);
-            System.out.println(index);
-            System.out.println(log.get(index + 1));
-            System.out.println(log.get(index + 2));
-
             String exceptionStr = log.get(index + 2);
-            System.out.println("exceptionStr ==>" + exceptionStr);
             String trimmedStr = trimLogLine(exceptionStr);
-            System.out.println("trimmedStr ==>" + trimmedStr);
 
             if (!uniqueLogs.containsKey(trimmedStr)) {
-                System.out.println("count ==>" + 1);
                 uniqueLogs.put(trimmedStr, 1);
+
+                // Print stack trace
+                stackTraces.append("#" + stCounter++ + ") " + trimmedStr + "\n");
+
+                // Get stack trace pattern
+                final String stackTracePattern = "([\\d-]+\\s+[\\d:\\.]+\\s+[\\d]+\\s+[\\d]+\\s+[A-Z]\\s+[\\w]+:)\\s+.+";
+                Pattern logPattern = Pattern.compile(stackTracePattern);
+                Matcher matcher = logPattern.matcher(exceptionStr);
+                matcher.matches();
+                final String stPrefix = matcher.group(1) + " at ";
+                int logLineNum = index + 3;
+                String nextLogLine = log.get(logLineNum);
+                while(nextLogLine.replaceFirst(":\\s+at ", ": at ").contains(stPrefix)) {
+                    stackTraces.append("\t");
+                    stackTraces.append(trimLogLine(nextLogLine));
+                    stackTraces.append("\n");
+                    nextLogLine = log.get(logLineNum++);
+                }
+                stackTraces.append("\n");
+
             } else {
-                System.out.println("count ==>" + (uniqueLogs.get(trimmedStr) + 1));
                 uniqueLogs.put(trimmedStr, uniqueLogs.get(trimmedStr) + 1);
             }
         }
-        return uniqueLogs;
+
+        System.out.println("#####");
+        System.out.println("FATAL EXCEPTION(S)");
+        System.out.println("------------------");
+        uniqueLogs.forEach((k,v) -> System.out.println(k + " | " + v));
+        System.out.println();
+        System.out.println();
+
+        System.out.println("Stacktrace:");
+        System.out.println("-----------");
+        System.out.println(stackTraces.toString());
+        System.out.println("#####");
+
     }
 
     private static List<String> filterBy(List<String> log, String keyword) {
